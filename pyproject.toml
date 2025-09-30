@@ -1,0 +1,10 @@
+[project]
+name = "uninwalk-be"
+version = "0.1.0"
+description = "UNINwalk backend service"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "fastapi==0.117.1",
+  "uvicorn==0.37.0",
+]

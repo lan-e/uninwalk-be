@@ -1,0 +1,95 @@
+[
+    {
+        "id": "teacher1",
+        "type": "TEACHER",
+        "name": "Snježana Ivančić Valenko",
+        "title": "viši predavač, dr. sc.",
+        "email": "snjezana.ivancic@unin.hr",
+        "image": "teacher1.png",
+        "phone": "+385 42 493 371",
+        "web": "https://scholar.google.com/citations?user=iKMgEqoAAAAJ&hl=hr&oi=ao",
+        "room": "27",
+        "room_route": "/unin1"
+    },
+    {
+        "id": "teacher2",
+        "type": "TEACHER",
+        "name": "Jelena Vlašić",
+        "title": "predavač, dipl. ing.",
+        "email": "jelena.vlasic@unin.hr",
+        "image": "teacher2.png",
+        "phone": "+385 42 493 371",
+        "web": "https://scholar.google.hr/citations?user=BqihCmsAAAAJ",
+        "room": "27",
+        "room_route": "/unin1"
+    },
+    {
+        "id": "teacher3",
+        "type": "TEACHER",
+        "name": "Andrija Bernik",
+        "title": "izv. prof. dr. sc.",
+        "email": "andrija.bernik@unin.hr",
+        "image": "teacher3.png",
+        "phone": "+385 42 493 320",
+        "web": "https://scholar.google.hr/citations?user=XP-ercgAAAAJ",
+        "room": "34",
+        "room_route": "/unin1"
+    },
+    {
+        "id": "teacher4",
+        "type": "TEACHER",
+        "name": "Emil Dumić",
+        "title": "izv. prof. dr. sc.",
+        "email": "emil.dumic@unin.hr",
+        "image": "teacher4.jpg",
+        "web": "https://scholar.google.hr/citations?user=inIKfK4AAAAJ",
+        "room": "19",
+        "room_route": "/unin1"
+    },
+    {
+        "id": "teacher5",
+        "type": "TEACHER",
+        "name": "Robert Geček",
+        "title": "izv. prof. art. dr. sc.",
+        "email": "robert.gecek@unin.hr",
+        "image": "teacher5.jpg",
+        "phone": "+385 42 493 365",
+        "web": "",
+        "room": "24",
+        "room_route": "/unin1"
+    },
+    {
+        "id": "teacher6",
+        "type": "TEACHER",
+        "name": "Mario Periša",
+        "title": "izv. prof. art. dr. sc.",
+        "email": "mario.perisa@unin.hr",
+        "image": "teacher6.jpg",
+        "web": "https://scholar.google.hr/citations?user=jVkX20QAAAAJ",
+        "room": "27",
+        "room_route": "/unin1"
+    },
+    {
+        "id": "teacher7",
+        "type": "TEACHER",
+        "name": "Dean Valdec",
+        "title": "redoviti profesor, dr. sc.",
+        "email": "devaldec@unin.hr",
+        "image": "teacher7.jpg",
+        "phone": "+385 42 493 357",
+        "web": "https://scholar.google.hr/citations?user=eMROjpIAAAAJ",
+        "room": "25",
+        "room_route": "/unin1"
+    },
+    {
+        "id": "teacher8",
+        "type": "TEACHER",
+        "name": "Vladimir Stanisavljević",
+        "title": "viši predavač, mr. sc.",
+        "email": "vladost@unin.hr",
+        "image": "teacher8.jpg",
+        "web": "https://scholar.google.hr/citations?user=OI-IK3sAAAAJ",
+        "room": "25",
+        "room_route": "/unin1"
+    }
+]

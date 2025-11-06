@@ -162,10 +162,10 @@
     "name": "Bernik Andrija",
     "title": "Associate Professor / Izvanredni profesor, Ph.D. / dr. sc.",
     "email": "abernik@unin.hr",
-    "phone": null,
+    "phone": "+385 42 493 320",
     "web": "https://www.unin.hr/profili/profil/bernik-andrija",
-    "room": null,
-    "room_route": null
+    "room": "34",
+    "room_route": "/unin1"
   },
   {
     "id": "15",
@@ -584,8 +584,8 @@
     "email": "emil.dumic@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/dumic-emil",
-    "room": null,
-    "room_route": null
+    "room": "19",
+    "room_route": "/unin1"
   },
   {
     "id": "50",
@@ -2252,8 +2252,8 @@
     "email": "mario.perisa@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/perisa-mario",
-    "room": "k27",
-    "room_route": null
+    "room": "27",
+    "room_route": "/unin1"
   },
   {
     "id": "189",
@@ -2972,8 +2972,8 @@
     "email": "devaldec@unin.hr",
     "phone": "VŽ: 042/493-357 / KC: 048/499-919",
     "web": "https://www.unin.hr/profili/profil/valdec-dean",
-    "room": "A209",
-    "room_route": null
+    "room": "25",
+    "room_route": "/unin1"
   },
   {
     "id": "249",

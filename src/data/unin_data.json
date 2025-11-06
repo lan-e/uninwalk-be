@@ -1,0 +1,346 @@
+[
+  {
+  "id": "univ_general",
+  "name": "Sveučilište Sjever",
+  "type": "INFORMACIJE",
+  "info": {
+    "radno_vrijeme": "pon-pet 8-16h",
+    "glavni_telefon": "+385 42 493 338",
+    "email": "tajnistvo.vz@unin.hr",
+    "web": "https://www.unin.hr",
+    "adresa": "Jurja Križanića 31b, 42000 Varaždin",
+    "studentska_sluzba_radno_vrijeme": "pon-pet 12-16h",
+    "knjiznica_radno_vrijeme": "pon, uto, sri, pet 9-17h, čet 9-20h"
+  }
+},
+  {
+    "id": "p1",
+    "type": "PARKING",
+    "building": "UNIN1-1",
+    "spots": "70"
+  },
+  {
+    "id": "p2",
+    "type": "PARKING",
+    "building": "UNIN2-1",
+    "spots": "60"
+  },
+  {
+    "id": "k1",
+    "name": "K-1",
+    "type": "PREDAVAONICA",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k2",
+    "name": "K-2",
+    "type": "RAČUNALNI LABORATORIJ",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k3",
+    "name": "K-3",
+    "type": "LABORATORIJ",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k4",
+    "name": "K-4",
+    "type": "",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k5",
+    "name": "K-5",
+    "type": "LABORATORIJ",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k6",
+    "name": "K-6",
+    "type": "",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k7",
+    "name": "K-7",
+    "type": "STUDENTSKA REFERADA",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k9",
+    "name": "K-9",
+    "type": "RAČUNALNI LABORATORIJ",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k10",
+    "name": "K-10",
+    "type": "LABORATORIJ",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k11",
+    "name": "K-11",
+    "type": "LABORATORIJ",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k12",
+    "name": "K-12",
+    "type": "",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k13",
+    "name": "K-13",
+    "type": "CENTAR ZA DIGITALNO NAKLADNIŠTVO (TISKARA)",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k17",
+    "name": "K-17",
+    "type": "TEHNIČKA PODRŠKA",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k18",
+    "name": "K-18",
+    "type": "",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k19",
+    "name": "K-19",
+    "type": "",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k20",
+    "name": "K-20",
+    "type": "",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k21",
+    "name": "K-21",
+    "type": "LABORATORIJ",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "k22",
+    "name": "K-22",
+    "type": "PREDAVAONICA",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k23",
+    "name": "K-23",
+    "type": "PREDAVAONICA",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k24",
+    "name": "K-24",
+    "type": "ODJELA ZA NASTAVNIŠTVO",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k25",
+    "name": "K-25",
+    "type": "",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k26",
+    "name": "K-26",
+    "type": "PREDAVAONICA",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k27",
+    "name": "K-27",
+    "type": "",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k28",
+    "name": "K-28",
+    "type": "",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k29",
+    "name": "K-29",
+    "type": "RAČUNALNI LABORATORIJ",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k30",
+    "name": "K-30",
+    "type": "RAČUNALNI LABORATORIJ",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k31",
+    "name": "K-31",
+    "type": "",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k32",
+    "name": "K-32",
+    "type": "",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k33",
+    "name": "K-33",
+    "type": "PREDAVAONICA",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k36",
+    "name": "K-36",
+    "type": "PREDAVAONICA",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k37",
+    "name": "K-37",
+    "type": "",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k38",
+    "name": "K-38",
+    "type": "POSLOVNA INFORMATIKA I NASTAVNIŠTVO",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k39",
+    "name": "K-39",
+    "type": "POSLOVNA INFORMATIKA I NASTAVNIŠTVO",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "k101",
+    "name": "K-101",
+    "type": "PREDAVAONICA",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k102",
+    "name": "K-102",
+    "type": "PREDAVAONICA",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k103",
+    "name": "K-103",
+    "type": "",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k104",
+    "name": "K-104",
+    "type": "STUDENTSKA SLUŽBA ZA RAD SA STUDENTIMA",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k105",
+    "name": "K-105",
+    "type": "",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k106",
+    "name": "K-106",
+    "type": "",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k107",
+    "name": "K-107",
+    "type": "",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k108",
+    "name": "K-108",
+    "type": "PREDAVAONICA",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k109",
+    "name": "K-109",
+    "type": "PREDAVAONICA",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "k110",
+    "name": "K-110",
+    "type": "PREDAVAONICA",
+    "building": "UNIN2-2"
+  },
+  {
+    "id": "k111",
+    "name": "K-111",
+    "type": "",
+    "building": "UNIN2-2"
+  },
+  {
+    "id": "k112",
+    "name": "K-112",
+    "type": "STUDENTSKA KNJIŽNICA",
+    "info": {
+      "radno_vrijeme": "pon, uto, sri, pet  9-17 h, čet 9-20 h",
+      "telefon": "+385 42 493 316",
+      "email": "knjiznica.vz@unin.hr",
+      "knjižničarka": "jasna.sipek@unin.hr"
+    },
+    "building": "UNIN2-2"
+  },
+  {
+    "id": "k113",
+    "name": "K-113",
+    "type": "",
+    "building": "UNIN2-2"
+  },
+  {
+    "id": "k114",
+    "name": "K-114",
+    "type": "",
+    "building": "UNIN2-2"
+  },
+  {
+    "id": "k115",
+    "name": "K-115",
+    "type": "PREDAVAONICA",
+    "building": "UNIN2-2"
+  },
+  {
+    "id": "toilets1",
+    "name": "TOILETS",
+    "type": "",
+    "building": "UNIN1-1"
+  },
+  {
+    "id": "toilets2",
+    "name": "TOILETS",
+    "type": "",
+    "building": "UNIN1-2"
+  },
+  {
+    "id": "toilets3",
+    "name": "TOILETS",
+    "type": "",
+    "building": "UNIN2-1"
+  },
+  {
+    "id": "toilets4",
+    "name": "TOILETS",
+    "type": "",
+    "building": "UNIN2-2"
+  }
+]

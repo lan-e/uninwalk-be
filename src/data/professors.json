@@ -2,14 +2,12 @@
   {
     "id": "1",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/mirna_amadori.jpg",
-    "name": "Amadori Mirna",
-    "title": "Predavač, dipl.ing.",
-    "email": "amadori.mirna@gmail.com",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/amadori-mirna",
-    "room": null,
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Igor_Alfirevic_profili.png",
+    "name": "Alfirević Igor",
+    "title": "DOKTOR MEDICINE, DOKTOR ZNANOSTI (DR. SC.)",
+    "email": "ialfirevic@unin.hr",
+    "phone": "+385 98 388 334",
+    "web": "https://www.unin.hr/profili/profil/alfirevic-igor"
   },
   {
     "id": "2",
@@ -19,150 +17,128 @@
     "title": "Predavač, mr. sc.",
     "email": "drandrsek@unin.com",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/andrasek-drazenka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/andrasek-drazenka"
   },
   {
     "id": "3",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Andričević Roko",
-    "title": "Redoviti profesor u tr. zv., dr. sc.",
-    "email": "roko.andricevic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/andricevic-roko",
-    "room": null,
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Aleksej-Aniskin_1X5A2579.jpg",
+    "name": "Aniskin Aleksej",
+    "title": "Assoc. prof., Ph.D.",
+    "email": "aleksej.aniskin@unin.hr",
+    "phone": "042/493-350",
+    "web": "https://www.unin.hr/profili/profil/aniskin-aleksej"
   },
   {
     "id": "4",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Aleksej-Aniskin_1X5A2579.jpg",
-    "name": "Aniskin Aleksej",
-    "title": "Izvanredni profesor, dr. sc.",
-    "email": "aleksej.aniskin@unin.hr",
-    "phone": "042/493-350",
-    "web": "https://www.unin.hr/profili/profil/aniskin-aleksej",
-    "room": "224",
-    "room_route": null
-  },
-  {
-    "id": "5",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Antonic.jpg",
-    "name": "Antonić Davor",
-    "title": "Izvanredni profesor, dr.sc.",
-    "email": "davor.antonic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/antonic-davor",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "6",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Marija-Arapović_1X5A8172.jpg",
     "name": "Arapović Marija",
     "title": "Predavač, mag. med. techn.",
     "email": "marapovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/arapovic-marija",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/arapovic-marija"
   },
   {
-    "id": "7",
+    "id": "5",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Artuković Marinko",
     "title": "Docent, dr. sc.",
     "email": "marinko.artukovic@unin.com",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/artukovic-marinko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/artukovic-marinko"
   },
   {
-    "id": "8",
+    "id": "6",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Željka-Bagarić_1X5A7902.jpg",
     "name": "Bagarić Željka",
-    "title": "Izvanredni profesor, dr. sc.",
+    "title": "Associate Professor, PhD",
     "email": "zeljka.bagaric@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/bagaric-zeljka",
-    "room": null,
-    "room_route": null
+    "phone": "/",
+    "web": "https://www.unin.hr/profili/profil/bagaric-zeljka"
   },
   {
-    "id": "9",
+    "id": "7",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Barbieri Alfio",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "alfio.barbieri@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/barbieri-alfio",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/barbieri-alfio"
   },
   {
-    "id": "10",
+    "id": "8",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Bača Miroslav",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "mbaca@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/baca-miroslav",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/baca-miroslav"
   },
   {
-    "id": "11",
+    "id": "9",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Photo-on-05.02.2023.-at-17_53_43.jpg",
     "name": "Bačak Kocman Iva",
     "title": "Docent, dr. sc.",
     "email": "ibkocman@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/bacak-kocman-iva",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/bacak-kocman-iva"
   },
   {
-    "id": "12",
+    "id": "10",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/mario_barisic.jpg",
     "name": "Barišić Mario",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "mario.barisic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/barisic-mario",
-    "room": "A212",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/barisic-mario"
+  },
+  {
+    "id": "11",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Dino_Bartoluci_profili.jpg",
+    "name": "Bartoluci Dino",
+    "title": "Viši predavač, Magistar ekonomije, mag.oec",
+    "email": "dbartoluci@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/bartoluci-dino"
+  },
+  {
+    "id": "12",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Ivan-Batoš_1X5A2667.jpg",
+    "name": "Batoš Ivan",
+    "title": "Docent, magistar umjetnosti (mr. art.)",
+    "email": "ibatos@unin.hr",
+    "phone": "0959149528",
+    "web": "https://www.unin.hr/profili/profil/batos-ivan",
+    "room": "32",
+    "room_route": "/unin1"
   },
   {
     "id": "13",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Ivan-Batoš_1X5A2667.jpg",
-    "name": "Batoš Ivan",
-    "title": "Docent, art.",
-    "email": "ibatos@unin.hr",
+    "image": "https://www.unin.hr/wp-content/uploads/Snjezana_Benko_Mestrovic_profili.jpg",
+    "name": "Benko Meštrović Snježana",
+    "title": "Docent/Assistant Professor, dr. sc./ PhD",
+    "email": "sbenkomestrovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/batos-ivan",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/benko-mestrovic-snjezana"
   },
   {
     "id": "14",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Andrija-Bernik_1X5A8129.jpg",
     "name": "Bernik Andrija",
-    "title": "Associate Professor / Izvanredni profesor, Ph.D. / dr. sc.",
+    "title": "Izvanredni profesor, dr. sc.",
     "email": "abernik@unin.hr",
-    "phone": "+385 42 493 320",
+    "phone": null,
     "web": "https://www.unin.hr/profili/profil/bernik-andrija",
     "room": "34",
     "room_route": "/unin1"
@@ -172,12 +148,10 @@
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Iva-Matija-Bitanga_1X5A7847.jpg",
     "name": "Bitanga Iva Matija",
-    "title": "Izvanredni profesor, prof. lik. kulture",
+    "title": "Izvanredni profesor umjetnosti, prof. lik. kulture",
     "email": "iva.matija.bitanga@unin.hr",
     "phone": "048/499-912",
-    "web": "https://www.unin.hr/profili/profil/bitanga-iva-matija",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/bitanga-iva-matija"
   },
   {
     "id": "16",
@@ -185,11 +159,9 @@
     "image": "https://www.unin.hr/wp-content/uploads/G-Blagojevic-Zagorac.jpg",
     "name": "Blagojević Zagorac Gordana",
     "title": "Redoviti profesor, dr. sc.",
-    "email": "gordana13blagojevic@gmail.com",
+    "email": "gordana.blagojevic@uniri.hr",
     "phone": "051 651 150",
-    "web": "https://www.unin.hr/profili/profil/blagojevic-zagorac-gordana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/blagojevic-zagorac-gordana"
   },
   {
     "id": "17",
@@ -198,10 +170,8 @@
     "name": "Blaži Jelena",
     "title": "Predavač, dr. sc.",
     "email": "jelena.blazi@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/blazi-jelena",
-    "room": null,
-    "room_route": null
+    "phone": "0912023077",
+    "web": "https://www.unin.hr/profili/profil/blazi-jelena"
   },
   {
     "id": "18",
@@ -211,9 +181,7 @@
     "title": "Docent, dr. sc.",
     "email": "oborsulic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/bjelotomic-orsulic-olga",
-    "room": "221",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/bjelotomic-orsulic-olga"
   },
   {
     "id": "19",
@@ -223,17 +191,15 @@
     "title": "Izvanredni profesor, akad. slik.",
     "email": "simon.bogojevic.narath@unin.hr",
     "phone": "048/499-912",
-    "web": "https://www.unin.hr/profili/profil/bogojevic-narath-simon",
-    "room": "A202",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/bogojevic-narath-simon"
   },
   {
     "id": "20",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/nikolina_bolcevic.jpg",
     "name": "Bolčević Horvatić Nikolina",
-    "title": "Predavač, dipl. ing.",
-    "email": "nikolina.bolcevic.horvatic@unin.hr",
+    "title": "Viši predavač, dipl. ing.",
+    "email": "nbolcevic@unin.hr",
     "phone": "042/493-320",
     "web": "https://www.unin.hr/profili/profil/bolcevic-horvatic-nikolina",
     "room": "34",
@@ -242,581 +208,437 @@
   {
     "id": "21",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/valter_boljuncic.jpg",
-    "name": "Boljunčić Valter",
-    "title": "Izvanredni profesor, dr. sc.",
-    "email": "valter.boljuncic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/boljuncic-valter",
-    "room": null,
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Luka-Boretić_1X5A7768.jpg",
+    "name": "Borčić Luka",
+    "title": "Docent, Magistar dizajna",
+    "email": "lborcic@unin.hr",
+    "phone": "+385 91 2440123",
+    "web": "https://www.unin.hr/profili/profil/borcic-luka"
   },
   {
     "id": "22",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Luka-Boretić_1X5A7768.jpg",
-    "name": "Borčić Luka",
-    "title": "Docent, Doc. art.",
-    "email": "lborcic@unin.hr",
-    "phone": "+385 92 3341416",
-    "web": "https://www.unin.hr/profili/profil/borcic-luka",
-    "room": "203",
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Zlatko-Botak_1X5A2769.jpg",
+    "name": "Botak Zlatko",
+    "title": "Izv.prof., dr. sc.",
+    "email": "zlatko.botak@unin.hr",
+    "phone": "042/493-339",
+    "web": "https://www.unin.hr/profili/profil/botak-zlatko"
   },
   {
     "id": "23",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Tajana-Borlinić_1X5A8353.jpg",
-    "name": "Borlinić Tajana",
-    "title": null,
-    "email": "tborlinic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/borlinic-tajana",
-    "room": null,
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/nikola_bradic.jpg",
+    "name": "Bradić Nikola",
+    "title": "Senior Lecturer, M.D.",
+    "email": "nikola.bradic@unin.hr",
+    "phone": "+385 42 493 387",
+    "web": "https://www.unin.hr/profili/profil/bradic-nikola"
   },
   {
     "id": "24",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Zlatko-Botak_1X5A2769.jpg",
-    "name": "Botak Zlatko",
-    "title": "Docent, dr. sc.",
-    "email": "zlatko.botak@unin.hr",
-    "phone": "042/493-339",
-    "web": "https://www.unin.hr/profili/profil/botak-zlatko",
-    "room": "UNIN3",
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Eva_Brlek_profili.jpeg",
+    "name": "Brlek Eva",
+    "title": "Docent, dr.sc.",
+    "email": "evbrlek@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/brlek-eva"
   },
   {
     "id": "25",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/nikola_bradic.jpg",
-    "name": "Bradić Nikola",
-    "title": "Viši predavač, dr. med.",
-    "email": "nikola.bradic@unin.hr",
-    "phone": "042/493-387",
-    "web": "https://www.unin.hr/profili/profil/bradic-nikola",
-    "room": "126",
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Bubaš Marija",
+    "title": null,
+    "email": "mbubas@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/bubas-marija"
   },
   {
     "id": "26",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/drargan_brkic.jpg",
-    "name": "Brkić Dragan",
-    "title": "Asistent, dipl. inf.",
-    "email": "drbrkic@unin.hr",
-    "phone": "098 778843",
-    "web": "https://www.unin.hr/profili/profil/brkic-dragan",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "27",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Brnjac Nikolina",
-    "title": "Redoviti profesor, dr. sc.",
-    "email": "brnjac.nikolina@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/brnjac-nikolina",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "28",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Bunić Željko",
-    "title": "Docent, dr. sc.",
-    "email": "zeljko.bunic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/bunic-zeljko",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "29",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Krešimir-Buntak_1X5A8098.jpg",
     "name": "Buntak Krešimir",
     "title": "Redoviti profesor, dr. sc.",
     "email": "kresimir.buntak@unin.hr",
     "phone": "042/493-343",
-    "web": "https://www.unin.hr/profili/profil/buntak-kresimir",
-    "room": "123",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/buntak-kresimir"
+  },
+  {
+    "id": "27",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Matija-Bušić_1X5A3251.jpg",
+    "name": "Bušić Matija",
+    "title": "Izvanredni profesor, dr. sc.",
+    "email": "matija.busic@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/busic-matija"
+  },
+  {
+    "id": "28",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Zoran-Busija_1X5A2817.jpg",
+    "name": "Busija Zoran",
+    "title": "Viši predavač, dipl.ing.",
+    "email": "zbusija@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/busija-zoran"
+  },
+  {
+    "id": "29",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/cafuta_1.jpg",
+    "name": "Cafuta Davor",
+    "title": "Izvanredni profesor, dr.sc.",
+    "email": "davor.cafuta@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/cafuta-davor"
   },
   {
     "id": "30",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Matija-Bušić_1X5A3251.jpg",
-    "name": "Bušić Matija",
-    "title": "Docent, dr. sc.",
-    "email": "matija.busic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/busic-matija",
-    "room": null,
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Irena-Canjuga_1X5A70231.jpg",
+    "name": "Canjuga Irena",
+    "title": "Docentica, dr.sc.",
+    "email": "irena.canjuga@unin.hr",
+    "phone": "042/493-386",
+    "web": "https://www.unin.hr/profili/profil/canjuga-irena"
   },
   {
     "id": "31",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Zoran-Busija_1X5A2817.jpg",
-    "name": "Busija Zoran",
-    "title": "Predavač, dipl.ing.",
-    "email": "zbusija@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/busija-zoran",
-    "room": "UNIN3",
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Capak Krunoslav",
+    "title": "Docent, doc. dr. sc.",
+    "email": "kcapak@unin.hr",
+    "phone": "01/48 63 222",
+    "web": "https://www.unin.hr/profili/profil/capak-krunoslav"
   },
   {
     "id": "32",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/cafuta_1.jpg",
-    "name": "Cafuta Davor",
-    "title": "Docent, dr.sc.",
-    "email": "davor.cafuta@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/cafuta-davor",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "33",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Irena-Canjuga_1X5A70231.jpg",
-    "name": "Canjuga Irena",
-    "title": "Docent, dr.sc.",
-    "email": "irena.canjuga@unin.hr",
-    "phone": "042/493-386",
-    "web": "https://www.unin.hr/profili/profil/canjuga-irena",
-    "room": "12",
-    "room_route": "/unin1"
-  },
-  {
-    "id": "34",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Capak Krunoslav",
-    "title": "Docent, dr. sc.",
-    "email": "kcapak@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/capak-krunoslav",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "35",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Vlado-Cetl_1X5A3011.jpg",
     "name": "Cetl Vlado",
     "title": "Redoviti Profesor, dr. sc.",
     "email": "vlado.cetl@unin.hr",
     "phone": "+385915021888",
-    "web": "https://www.unin.hr/profili/profil/cetl-vlado",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/cetl-vlado"
   },
   {
-    "id": "36",
+    "id": "33",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Cingula Sofija",
     "title": "Izvanredni profesor, izv. prof. art.",
     "email": "scingula@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/cingula-sofija",
-    "room": "230",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/cingula-sofija"
   },
   {
-    "id": "37",
+    "id": "34",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Anđelko-Crnoja_1X5A2586.jpg",
     "name": "Crnoja Anđelko",
     "title": "Docent, dr. sc.",
     "email": "acrnoja@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/crnoja-andelko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/crnoja-andelko"
   },
   {
-    "id": "38",
+    "id": "35",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Dražen-Crčić_1X5A8148.jpg",
     "name": "Crčić Dražen",
     "title": "Predavač, mag. ing. el.",
     "email": "dcrcic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/crcic-drazen",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/crcic-drazen"
   },
   {
-    "id": "39",
+    "id": "36",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivan-Cvitković_1X5A8099.jpg",
     "name": "Cvitković Ivan",
-    "title": "Predavač, mag.ing.traff.",
+    "title": "Viši predavač, mag.ing.traff.",
     "email": "ivan.cvitkovic@unin.hr",
     "phone": "048/499 926",
-    "web": "https://www.unin.hr/profili/profil/cvitkovic-ivan",
-    "room": "A225",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/cvitkovic-ivan"
   },
   {
-    "id": "40",
+    "id": "37",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Marko-Čačić_1X5A8156.jpg",
     "name": "Čačić Marko",
     "title": "Docent, dr. sc.",
     "email": "marko.cacic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/cacic-marko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/cacic-marko"
   },
   {
-    "id": "41",
+    "id": "38",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/IMG_8823.jpg",
     "name": "Čerepinko Darijo",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "darijo.cerepinko@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/cerepinko-darijo",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/cerepinko-darijo"
   },
   {
-    "id": "42",
+    "id": "39",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ante-Čikić_1X5A8615.jpg",
     "name": "Čikić Ante",
     "title": "Redoviti profesor, dr. sc.",
     "email": "ante.cikic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/cikic-ante",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/cikic-ante"
   },
   {
-    "id": "43",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Čizmar Dean",
-    "title": "Izvanredni profesor, dr. sc.",
-    "email": "dean.cizmar@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/cizmar-dean",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "44",
+    "id": "40",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivona-Čulo_1X5A7839.jpg",
     "name": "Čulo Ivona",
     "title": "Docent, Dr.sc.",
     "email": "ivona.culo@unin.hr",
     "phone": "048/499-914",
-    "web": "https://www.unin.hr/profili/profil/culo-ivona",
-    "room": "A204",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/culo-ivona"
   },
   {
-    "id": "45",
+    "id": "41",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "image": "https://www.unin.hr/wp-content/uploads/Nikica_Darabos_profili.jpg",
     "name": "Daraboš Nikica",
     "title": "Docent, dr. sc.",
     "email": "ndarabos@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/darabos-nikica",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/darabos-nikica"
   },
   {
-    "id": "46",
+    "id": "42",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/ivica-dodig.jpg",
     "name": "Dodig Ivica",
-    "title": "Docent, dr.sc.",
+    "title": "Izvanredni profesor, dr.sc.",
     "email": "ivica.dodig@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/dodig-ivica",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/dodig-ivica"
   },
   {
-    "id": "47",
+    "id": "43",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/miroslav_drljaca.jpg",
-    "name": "Drljača Miroslav",
-    "title": "Izvanredni profesor, dr. sc.",
-    "email": "mdrljaca@unin.hr",
-    "phone": "098 454673",
-    "web": "https://www.unin.hr/profili/profil/drljaca-miroslav",
-    "room": null,
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Nives_Domjan_profili.jpg",
+    "name": "Domjan Kačarević Nives",
+    "title": "Predavač, univ.mag.ing.traff.",
+    "email": "nidomjan@unin.hr",
+    "phone": "/",
+    "web": "https://www.unin.hr/profili/profil/domjan-kacarevic-nives"
   },
   {
-    "id": "48",
+    "id": "44",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Lidija-Dujić_1X5A8479.jpg",
     "name": "Dujić Lidija",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "ldujic@unin.hr",
     "phone": "048/499-915",
-    "web": "https://www.unin.hr/profili/profil/dujic-lidija",
-    "room": "A205",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/dujic-lidija"
   },
   {
-    "id": "49",
+    "id": "45",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Emil-Dumić_1X5A8322.jpg",
     "name": "Dumić Emil",
-    "title": "Izvanredni profesor, dr. sc.",
-    "email": "emil.dumic@unin.hr",
-    "phone": null,
+    "title": "Redoviti profesor, dr. sc.",
+    "email": "edumic@unin.hr",
+    "phone": "042493368",
     "web": "https://www.unin.hr/profili/profil/dumic-emil",
     "room": "19",
     "room_route": "/unin1"
   },
   {
-    "id": "50",
+    "id": "46",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivo-Domić-Čule_1X5A5283.jpg",
     "name": "Dumić-Čule Ivo",
     "title": "Docent, dr. sc.",
     "email": "idumiccule@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/dumic-cule-ivo",
-    "room": "126",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/dumic-cule-ivo"
   },
   {
-    "id": "51",
+    "id": "47",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Bojan-Đurin_1X5A2611.jpg",
     "name": "Đurin Bojan",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "bojan.durin@unin.hr",
-    "phone": "042/493-347, 098/9749716",
-    "web": "https://www.unin.hr/profili/profil/durin-bojan",
-    "room": null,
-    "room_route": null
+    "phone": "098/9749716",
+    "web": "https://www.unin.hr/profili/profil/durin-bojan"
   },
   {
-    "id": "52",
+    "id": "48",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Branimir-Felger_1X5A8326.jpg",
     "name": "Felger Branimir",
-    "title": "Asistent, dr. sc.",
+    "title": "Docent, dr. sc.",
     "email": "bfelger@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/felger-branimir",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/felger-branimir"
   },
   {
-    "id": "53",
+    "id": "49",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Manuela-Filipec_1X5A8137.jpg",
     "name": "Filipec Manuela",
     "title": "Docent, dr. sc.",
-    "email": "manuela.filipec@unin.hr",
+    "email": "mfilipec@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/filipec-manuela",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/filipec-manuela"
   },
   {
-    "id": "54",
+    "id": "50",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Katarina-Fotona-Čiković_1X5A7788.jpg",
     "name": "Fotova Čiković Katerina",
     "title": "Docent, dr.sc.",
     "email": "kcikovic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/fotova-cikovic-katerina",
-    "room": null,
-    "room_route": null
+    "phone": "https://www.croris.hr/osobe/profil/35947",
+    "web": "https://www.unin.hr/profili/profil/fotova-cikovic-katerina"
   },
   {
-    "id": "55",
+    "id": "51",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Domagoj-Frank_1X5A7841.jpg",
     "name": "Frank Domagoj",
     "title": "Docent, dr. sc.",
     "email": "domagoj.frank@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/frank-domagoj",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/frank-domagoj"
   },
   {
-    "id": "56",
+    "id": "52",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Franović_8650-Copy.jpg",
     "name": "Franović Antun",
     "title": "Docent, akad. slik.",
     "email": "antun.franovic@unin.hr",
     "phone": "048/499-913",
-    "web": "https://www.unin.hr/profili/profil/franovic-antun",
-    "room": "A203",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/franovic-antun"
   },
   {
-    "id": "57",
+    "id": "53",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Galić Marin",
+    "title": null,
+    "email": "mgalic@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/galic-marin"
+  },
+  {
+    "id": "54",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/tatjana-gazivoda-kraljevic.png",
     "name": "Gazivoda Kraljević Tatjana",
     "title": "Redoviti profesor, dr. sc.",
     "email": "tatjana.gazivoda.kraljevic@unin.hr",
     "phone": "+385 91 509 5018",
-    "web": "https://www.unin.hr/profili/profil/gazivoda-kraljevic-tatjana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/gazivoda-kraljevic-tatjana"
   },
   {
-    "id": "58",
+    "id": "55",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Robert-Geček_1X5A8363.jpg",
     "name": "Geček Robert",
     "title": "izv. prof. art., dr.sc.",
     "email": "robert.gecek@unin.hr",
     "phone": "042/493-365",
-    "web": "https://www.unin.hr/profili/profil/gecek-robert",
-    "room": "24",
-    "room_route": "/unin1"
+    "web": "https://www.unin.hr/profili/profil/gecek-robert"
   },
   {
-    "id": "59",
+    "id": "56",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Glavak Sunčana",
-    "title": "Predavač, mag. nov.",
-    "email": "suncana.glavak@unin.hr",
+    "image": "https://www.unin.hr/wp-content/uploads/Neven_Gladovic_profili.jpg",
+    "name": "Gladović Neven",
+    "title": "Predavač, dr.sc",
+    "email": "ngladovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/glavak-suncana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/gladovic-neven"
   },
   {
-    "id": "60",
+    "id": "57",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ana-Globočnik-Žunac_1X5A7921.jpg",
     "name": "Globočnik Žunac Ana",
     "title": "Izvanredna profesorica, dr. sc.",
     "email": "agzunac@unin.hr",
     "phone": "048/499-907",
-    "web": "https://www.unin.hr/profili/profil/globocnik-zunac-ana",
-    "room": "A201",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/globocnik-zunac-ana"
   },
   {
-    "id": "61",
+    "id": "58",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Lovorka-Gotal-Domitrović_1X5A7915.jpg",
     "name": "Gotal Dmitrović Lovorka",
     "title": "izv. prof., dr. sc.",
     "email": "lgotaldmitrovic@unin.hr",
     "phone": "--",
-    "web": "https://www.unin.hr/profili/profil/gotal-dmitrovic-lovorka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/gotal-dmitrovic-lovorka"
   },
   {
-    "id": "62",
+    "id": "59",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivana-Grabar_1X5A3178.jpg",
     "name": "Grabar Ivana",
-    "title": "Viši predavač, dr. sc.",
+    "title": "docent, dr. sc.",
     "email": "ivana.grabar@unin.hr",
     "phone": "042/493-340",
-    "web": "https://www.unin.hr/profili/profil/grabar-ivana",
-    "room": "224",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/grabar-ivana"
   },
   {
-    "id": "63",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Profile-picture.jpg",
-    "name": "Gregorić Marina",
-    "title": "Docent, dr. sc.",
-    "email": "marina.gregoric@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/gregoric-marina",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "64",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Grgurević Davor",
-    "title": "Profesor stručnog studija, dr. sc.",
-    "email": "davor.grgurevic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/grgurevic-davor",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "65",
+    "id": "60",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Iva-Grubješić_1X5A7812.jpg",
     "name": "Grubješić Iva",
-    "title": "Predavač, mag.philol.angl. et mag.philol.suet.",
+    "title": "Predavač, dr. sc.",
     "email": "iva.grubjesic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/grubjesic-iva",
-    "room": "A205",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/grubjesic-iva"
   },
   {
-    "id": "66",
+    "id": "61",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Gršić Bernard",
     "title": "Predavač, VSS",
     "email": "bgrsic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/grsic-bernard",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/grsic-bernard"
   },
   {
-    "id": "67",
+    "id": "62",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Andro-Guino_1X5A7924.jpg",
     "name": "Giunio Andro",
     "title": "Docent, mag. diz.",
     "email": "andro.giunio@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/giunio-andro",
-    "room": "A202",
-    "room_route": null
+    "phone": "+385 95 910 9452",
+    "web": "https://www.unin.hr/profili/profil/giunio-andro"
   },
   {
-    "id": "68",
+    "id": "63",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/bojana-habek-18.jpg",
-    "name": "Habek Bojana",
-    "title": "Predavač, prof.",
-    "email": "bhabek@unin.hr",
+    "name": "Harambašić Bojana",
+    "title": "Predavač, Univ. mag. educ. math. et phys.",
+    "email": "bojana.harambasic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/habek-bojana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/harambasic-bojana"
   },
   {
-    "id": "69",
+    "id": "64",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Kruno-Hajdek_1X5A7799.jpg",
     "name": "Hajdek Krunoslav",
@@ -824,23 +646,21 @@
     "email": "khajdek@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/hajdek-krunoslav",
-    "room": "24",
+    "room": "25",
     "room_route": "/unin1"
   },
   {
-    "id": "70",
+    "id": "65",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Vlado-Halusek_8327.jpg",
     "name": "Halusek Vlado",
     "title": "Profesor stručnog studija u trajnom izboru, dr.sc.",
     "email": "vhalusek@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/halusek-vlado",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/halusek-vlado"
   },
   {
-    "id": "71",
+    "id": "66",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ladislav-Havaš_1X5A8289.jpg",
     "name": "Havaš Ladislav",
@@ -852,79 +672,67 @@
     "room_route": "/unin1"
   },
   {
-    "id": "72",
+    "id": "67",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/hrvoje_hecimovic.jpg",
     "name": "Hećimović Hrvoje",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "hecimovic@inet.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/hecimovic-hrvoje",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/hecimovic-hrvoje"
   },
   {
-    "id": "73",
+    "id": "68",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivana-Herak_1X5A27961.jpg",
     "name": "Herak Ivana",
-    "title": "Predavač, mag. med. techn.",
-    "email": "ivana.herak@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/herak-ivana",
-    "room": null,
-    "room_route": null
+    "title": "Viši predavač, dr.sc. (Slo)",
+    "email": "ivherak@unin.hr",
+    "phone": "042 493 399",
+    "web": "https://www.unin.hr/profili/profil/herak-ivana"
   },
   {
-    "id": "74",
+    "id": "69",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Jurica-Hižak_1X5A8385.jpg",
     "name": "Hižak Jurica",
     "title": "Profesor stručnog studija, dr. sc.",
     "email": "jurica.hizak@unin.hr",
     "phone": "042/493-394",
-    "web": "https://www.unin.hr/profili/profil/hizak-jurica",
-    "room": "17",
-    "room_route": "/unin1"
+    "web": "https://www.unin.hr/profili/profil/hizak-jurica"
   },
   {
-    "id": "75",
+    "id": "70",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Vesna-Hodić_1X5A8282.jpg",
     "name": "Hodić Vesna",
-    "title": "predavač, univ. mag. physioth.",
+    "title": "Predavač, univ. mag. physioth.",
     "email": "vhodic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/hodic-vesna",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/hodic-vesna"
   },
   {
-    "id": "76",
+    "id": "71",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Dajana-Maria-Horvat_1X5A8391.jpg",
     "name": "Horvat Dajana Maria",
     "title": "Viši predavač, univ. spec. oec.",
     "email": "damahorvat@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/horvat-dajana-maria",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/horvat-dajana-maria"
   },
   {
-    "id": "77",
+    "id": "72",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Leon-Horvat.jpg",
     "name": "Horvat Leon",
     "title": "Predavač, mag. educ. math. et. phys.",
     "email": "lhorvat1@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/horvat-leon",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/horvat-leon"
   },
   {
-    "id": "78",
+    "id": "73",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Marko-Horvat_1X5A3219.jpg",
     "name": "Horvat Marko",
@@ -936,11 +744,11 @@
     "room_route": "/unin1"
   },
   {
-    "id": "79",
+    "id": "74",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tomislav-Horvat_8794.jpg",
     "name": "Horvat Tomislav",
-    "title": "Docent, dr.sc.",
+    "title": "Asistent, mag.ing.inf. et comm.techn",
     "email": "tomislav.horvat@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/horvat-tomislav",
@@ -948,55 +756,47 @@
     "room_route": "/unin1"
   },
   {
-    "id": "80",
+    "id": "75",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Miroslav-Horvatić_1X5A8344.jpg",
     "name": "Horvatić Miroslav",
     "title": "Viši predavač, dipl. ing.",
     "email": "miroslav.horvatic@unin.hr",
-    "phone": "042/493-353",
-    "web": "https://www.unin.hr/profili/profil/horvatic-miroslav",
-    "room": null,
-    "room_route": null
+    "phone": ".",
+    "web": "https://www.unin.hr/profili/profil/horvatic-miroslav"
   },
   {
-    "id": "81",
+    "id": "76",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Karlo-Houra_1X5A52941.jpg",
     "name": "Houra Karlo",
-    "title": "Izvanredni profesor, dr. sc.",
+    "title": "Redoviti profesor, dr. sc.",
     "email": "karlo.houra@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/houra-karlo",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/houra-karlo"
   },
   {
-    "id": "82",
+    "id": "77",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Hrgović Josip",
     "title": "Docent, dr. sc.",
     "email": "jhrgovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/hrgovic-josip",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/hrgovic-josip"
   },
   {
-    "id": "83",
+    "id": "78",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/ivonahudek.jpg",
-    "name": "Huđek Ivona",
+    "name": "Huđek Kanižaj Ivona",
     "title": "Docent, dr. sc.",
     "email": "ihudek@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/hudek-ivona",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/hudek-kanizaj-ivona"
   },
   {
-    "id": "84",
+    "id": "79",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Anica-Hunjet_1X5A8376.jpg",
     "name": "Hunjet Anica",
@@ -1008,307 +808,219 @@
     "room_route": "/unin1"
   },
   {
-    "id": "85",
+    "id": "80",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Snježana-Ivančić-Valenko_1X5A8301.jpg",
     "name": "Ivančić Valenko Snježana",
     "title": "Viši predavač, dr. sc.",
-    "email": "snjezana.ivancic@unin.hr",
+    "email": "sivancic@unin.hr",
     "phone": "042/493-371",
     "web": "https://www.unin.hr/profili/profil/ivancic-valenko-snjezana",
     "room": "27",
     "room_route": "/unin1"
   },
   {
-    "id": "86",
+    "id": "81",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Jelena-Ivelić-Telišman_1X5A7931.jpg",
     "name": "Ivelić Telišman Jelena",
-    "title": "Predavač, dipl. učit.",
+    "title": "Lecturer, PhD (Dr. sc.)",
     "email": "jelena.ivelic@unin.hr",
     "phone": "048/499-921",
-    "web": "https://www.unin.hr/profili/profil/ivelic-telisman-jelena",
-    "room": "A214",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/ivelic-telisman-jelena"
   },
   {
-    "id": "87",
+    "id": "82",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Kristian-Jambrošić_1X5A8338.jpg",
-    "name": "Jambrošić Kristian",
-    "title": null,
-    "email": "krjambrosic@unin.hr",
+    "image": "https://www.unin.hr/wp-content/uploads/Anita_Jagar_profili.jpg",
+    "name": "Jagar Anita",
+    "title": "Predavač, univ. mag. physioth.",
+    "email": "ajagar@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/jambrosic-kristian",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/jagar-anita"
   },
   {
-    "id": "88",
+    "id": "83",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Boris_Jalusic_profili.jpg",
+    "name": "Jalušić Boris",
+    "title": "Docent, dr.sc.",
+    "email": "bjalusic@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/jalusic-boris"
+  },
+  {
+    "id": "84",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Željko-Jeleč_1X5A8483.jpg",
     "name": "Jeleč Željko",
-    "title": "Docent, dr. sc.",
+    "title": "Izvanredni profesor, dr. sc.",
     "email": "zeljko.jelec@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/jelec-zeljko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/jelec-zeljko"
   },
   {
-    "id": "89",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Anita-Jeličić_1X5A8953.jpg",
-    "name": "Jeličić Anita",
-    "title": "Docent, dr. sc.",
-    "email": "anita.jelicic@unin.hr",
-    "phone": "042/493-349",
-    "web": "https://www.unin.hr/profili/profil/jelicic-anita",
-    "room": "122",
-    "room_route": null
-  },
-  {
-    "id": "90",
+    "id": "85",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Damir-Ježek_1X5A8090.jpg",
     "name": "Ježek Damir",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "damir.jezek@unin.hr",
     "phone": "0914048190",
-    "web": "https://www.unin.hr/profili/profil/jezek-damir",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/jezek-damir"
   },
   {
-    "id": "91",
+    "id": "86",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tvrtko-Jolić_1X5A8346.jpg",
     "name": "Jolić Tvrtko",
     "title": "Docent, dr. sc.",
-    "email": "tvrtko.jolic@unin.hr",
+    "email": "tjolic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/jolic-tvrtko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/jolic-tvrtko"
   },
   {
-    "id": "92",
+    "id": "87",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Jozić Josip",
     "title": "Predavač, mag. ing. et. comm. techn.",
     "email": "jjozic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/jozic-josip",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/jozic-josip"
   },
   {
-    "id": "93",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Nikola-Jozić_1X5A8334.jpg",
-    "name": "Jozić Nikola",
-    "title": "Predavač, mag.rel.publ.",
-    "email": "nikola.jozic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/jozic-nikola",
-    "room": "18",
-    "room_route": "/unin1"
-  },
-  {
-    "id": "94",
+    "id": "88",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Jukić Ante",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "ajukic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/jukic-ante",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/jukic-ante"
   },
   {
-    "id": "95",
+    "id": "89",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Iva-Jurčević-Šangot_1X5A7824.jpg",
     "name": "Jurčević Šangut Iva",
     "title": "Asistentica, mag.biol.",
     "email": "ijurcevic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/jurcevic-sangut-iva",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/jurcevic-sangut-iva"
   },
   {
-    "id": "96",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/ivica_kaniski.jpg",
-    "name": "Kaniški Ivica",
-    "title": "Predavač, mag.oec.",
-    "email": "ivica.kaniski@unin.hr",
-    "phone": "099/3720774",
-    "web": "https://www.unin.hr/profili/profil/kaniski-ivica",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "97",
+    "id": "90",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Željka-Kanižaj-Rogina_1X5A8443.jpg",
     "name": "Kanižaj Rogina Željka",
     "title": "Predavač, mag. med. techn.",
     "email": "zkanizaj@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kanizaj-rogina-zeljka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kanizaj-rogina-zeljka"
   },
   {
-    "id": "98",
+    "id": "91",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Kardum Duško",
+    "title": null,
+    "email": "dkardum@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/kardum-dusko"
+  },
+  {
+    "id": "92",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Damira-Keček_1X5A8101.jpg",
     "name": "Keček Damira",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "damira.kecek@unin.hr",
     "phone": "042/493-370",
-    "web": "https://www.unin.hr/profili/profil/kecek-damira",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kecek-damira"
   },
   {
-    "id": "99",
+    "id": "93",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Kikelj Matija",
     "title": "Predavač, mag. iur.",
     "email": "makikelj@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kikelj-matija",
-    "room": null,
-    "room_route": null
+    "phone": "098/916 1799",
+    "web": "https://www.unin.hr/profili/profil/kikelj-matija"
   },
   {
-    "id": "100",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Spomenka-Kiđemet-Piskač_1X5A8153.jpg",
-    "name": "Kiđemet-Piskač Spomenka",
-    "title": null,
-    "email": "skpiskac@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kidemet-piskac-spomenka",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "101",
+    "id": "94",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ante-Klečina_1X5A8096.jpg",
     "name": "Klečina Ante",
     "title": "Predavač, mag.ing.traff.",
     "email": "ante.klecina@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/klecina-ante",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/klecina-ante"
   },
   {
-    "id": "102",
+    "id": "95",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Višeslav-Kirinić_1X5A8349.jpg",
     "name": "Kirinić Višeslav",
     "title": "Predavač, dr. sc.",
-    "email": "viseslav.kirinic@unin.hr",
+    "email": "vikirinic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kirinic-viseslav",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kirinic-viseslav"
   },
   {
-    "id": "103",
+    "id": "96",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Veljko-Čondić_1X5A3185.jpg",
     "name": "Kondić Veljko",
     "title": "Viši predavač, dr. sc.",
     "email": "veljko.kondic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kondic-veljko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kondic-veljko"
   },
   {
-    "id": "104",
+    "id": "97",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Željko-Kos_1X5A2594.jpg",
     "name": "Kos Željko",
-    "title": "Docent, Dr.sc.",
+    "title": "Izvanredni profesor, Dr.sc.",
     "email": "zeljko.kos@unin.hr",
-    "phone": "042/493-379",
-    "web": "https://www.unin.hr/profili/profil/kos-zeljko",
-    "room": "127",
-    "room_route": null
+    "phone": "042/757-989",
+    "web": "https://www.unin.hr/profili/profil/kos-zeljko"
   },
   {
-    "id": "105",
+    "id": "98",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tina-Košanski_1X5A70421.jpg",
     "name": "Košanski Tina",
-    "title": "Predavač, mag. med. techn.",
-    "email": "tina.cikac@unin.hr",
+    "title": "Predavač, dr. sc. (Republika Slovenija)",
+    "email": "ticikac@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kosanski-tina",
-    "room": "118",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kosanski-tina"
   },
   {
-    "id": "106",
+    "id": "99",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "image": "https://www.unin.hr/wp-content/uploads/Miro_Kovac_profili.jpg",
     "name": "Kovač Miro",
     "title": "Izvanredni profesor, dr. sc.",
-    "email": "miro.kovac@unin.hr",
+    "email": "mkovac@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kovac-miro",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kovac-miro"
   },
   {
-    "id": "107",
+    "id": "100",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Kovačević Željko",
     "title": "Docent, dr. sc.",
     "email": "zkovacevic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kovacevic-zeljko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kovacevic-zeljko"
   },
   {
-    "id": "108",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Kovačić Matija",
-    "title": "Asistent",
-    "email": "matkovacic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kovacic-matija",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "109",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/drazan_kozak.png",
-    "name": "Kozak Dražan",
-    "title": "Redoviti profesor u tr. zv., dr. sc.",
-    "email": "drazan.kozak@gmail.com",
-    "phone": "035-493-452",
-    "web": "https://www.unin.hr/profili/profil/kozak-drazan",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "110",
+    "id": "101",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/goran_kozina.jpg",
     "name": "Kozina Goran",
@@ -1320,67 +1032,57 @@
     "room_route": "/unin1"
   },
   {
-    "id": "111",
+    "id": "102",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/MKT-foto.jpg",
     "name": "Kovač Tomas Marija",
     "title": "Predavač, dr. sc.",
     "email": "markovac@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kovac-tomas-marija",
-    "room": "P03",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kovac-tomas-marija"
   },
   {
-    "id": "112",
+    "id": "103",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Dalibor-Kramarić_1X5A8315.jpg",
     "name": "Kramarić Dalibor",
     "title": "Predavač, mag. ing. aedif.",
     "email": "dakramaric@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kramaric-dalibor",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kramaric-dalibor"
   },
   {
-    "id": "113",
+    "id": "104",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Nikola-Kranjčić_1X5A8367.jpg",
     "name": "Kranjčić Nikola",
     "title": "Docent, dr. sc.",
     "email": "nkranjcic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kranjcic-nikola",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kranjcic-nikola"
   },
   {
-    "id": "114",
+    "id": "105",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Mihaela-Kranjčević-Ščurić_1X5A8432.jpg",
     "name": "Kranjčević-Ščurić Mihaela",
     "title": "Viši predavač, dr.sc., mag. sestrinstva",
     "email": "mihaela.kranjcevic-scuric@unin.hr",
     "phone": "042/493-315",
-    "web": "https://www.unin.hr/profili/profil/kranjcevic-scuric-mihaela",
-    "room": "124",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kranjcevic-scuric-mihaela"
   },
   {
-    "id": "115",
+    "id": "106",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Mateja-Križaj-Grabant_1X5A70171.jpg",
     "name": "Križaj Grabant Mateja",
     "title": "Predavač, mag. med. techn.",
     "email": "mkrizaj@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/krizaj-grabant-mateja",
-    "room": "121",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/krizaj-grabant-mateja"
   },
   {
-    "id": "116",
+    "id": "107",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Predrag-Krobot_1X5A2603.jpg",
     "name": "Krobot Predrag",
@@ -1388,491 +1090,411 @@
     "email": "predrag.krobot@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/krobot-predrag",
-    "room": null,
-    "room_route": null
+    "room": "32",
+    "room_route": "/unin1"
   },
   {
-    "id": "117",
+    "id": "108",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/ljudevit_krpan.jpg",
     "name": "Krpan Ljudevit",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "ljudevit.krpan@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/krpan-ljudevit",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/krpan-ljudevit"
   },
   {
-    "id": "118",
+    "id": "109",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Vedran-Kruljac.jpg",
+    "name": "Kruljac Vedran",
+    "title": "Predavač, dr. sc.",
+    "email": "vkruljac@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/kruljac-vedran"
+  },
+  {
+    "id": "110",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Maja-Kućar_1X5A8122.jpg",
     "name": "Kućar Maja",
-    "title": null,
+    "title": "predavač, mag.psych",
     "email": "makucar@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kucar-maja",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kucar-maja"
   },
   {
-    "id": "119",
+    "id": "111",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Igor-Kuduz_1X5A7765.jpg",
     "name": "Kuduz Igor",
     "title": "Docent, ak. slikar-grafičar",
     "email": "ikuduz@unin.hr",
     "phone": "048/499-912",
-    "web": "https://www.unin.hr/profili/profil/kuduz-igor",
-    "room": "A202",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kuduz-igor"
   },
   {
-    "id": "120",
+    "id": "112",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Petra-Kuhar_1X5A7894.jpg",
     "name": "Kuhar Petra",
-    "title": "Predavač, dr.sc.",
+    "title": "Predavač, dr. sc.",
     "email": "petra.kuhar@unin.hr",
     "phone": "048/499-918",
-    "web": "https://www.unin.hr/profili/profil/kuhar-petra",
-    "room": "A208",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kuhar-petra"
   },
   {
-    "id": "121",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/dk.jpg",
-    "name": "Kundih David",
-    "title": "Asistent, univ. mag. ing. traff.",
-    "email": "dakundih@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kundih-david",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "122",
+    "id": "113",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/petar_kurecic.jpg",
     "name": "Kurečić Petar",
     "title": "Redoviti profesor, dr. sc.",
-    "email": "pkurecic@unin.hr",
+    "email": "petar.kurecic@unin.hr",
     "phone": "048/499-916",
-    "web": "https://www.unin.hr/profili/profil/kurecic-petar",
-    "room": "A206",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kurecic-petar"
   },
   {
-    "id": "123",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/fitim_kurti.jpg",
-    "name": "Kurti Fitim",
-    "title": "Predavač",
-    "email": "fitim.kurti@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kurti-fitim",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "124",
+    "id": "114",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivica-Kustura_1X5A7784.jpg",
     "name": "Kustura Ivica",
     "title": "Predavač, mr. sc.",
     "email": "ivica.kustura@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kustura-ivica",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kustura-ivica"
   },
   {
-    "id": "125",
+    "id": "115",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/HK_photo_2021.png",
     "name": "Kušić Hrvoje",
     "title": "Redoviti profesor, dr. sc.",
     "email": "hrvoje.kusic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/kusic-hrvoje",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kusic-hrvoje"
   },
   {
-    "id": "126",
+    "id": "116",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Anica-Kuzmić_1X5A8124.jpg",
     "name": "Kuzmić Anica",
-    "title": "Predavač, mag. physioth.",
+    "title": "Viši predavač, univ. mag. physioth.",
     "email": "anica.kuzmic@unin.hr",
     "phone": "042/493-355",
-    "web": "https://www.unin.hr/profili/profil/kuzmic-anica",
-    "room": "127",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/kuzmic-anica"
   },
   {
-    "id": "127",
+    "id": "117",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Krešimir-Lacković_1X5A7848.jpg",
     "name": "Lacković Krešimir",
     "title": "Docent, dr. sc.",
     "email": "klackovic@unin.hr",
     "phone": "048/499-916",
-    "web": "https://www.unin.hr/profili/profil/lackovic-kresimir",
-    "room": "A206",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/lackovic-kresimir"
   },
   {
-    "id": "128",
+    "id": "118",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Jadranka-Lasić-Lazić_1X5A8320.jpg",
     "name": "Lasić-Lazić Jadranka",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "jadranka.lasic-lazic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/lasic-lazic-jadranka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/lasic-lazic-jadranka"
   },
   {
-    "id": "129",
+    "id": "119",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Lepen Nikola",
-    "title": "Asistent",
-    "email": "nikola.lepen@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/lepen-nikola",
-    "room": null,
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Mirjana_Lenardic_Bedenik_profili.jpg",
+    "name": "Lenardić Bedenik Mirjana",
+    "title": "Predavač, mag. ing. techn. aliment.",
+    "email": "mlenardicbedenik@unin.hr",
+    "phone": "+385 99 665 22 14",
+    "web": "https://www.unin.hr/profili/profil/lenardic-bedenik-mirjana"
   },
   {
-    "id": "130",
+    "id": "120",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Lesinger Gordana",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "gordana.lesinger@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/lesinger-gordana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/lesinger-gordana"
   },
   {
-    "id": "131",
+    "id": "121",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Mario-Lešina_1X5A8161.jpg",
     "name": "Lešina Mario",
-    "title": null,
+    "title": "Docent, Dr.sc",
     "email": "mlesina@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/lesina-mario",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/lesina-mario"
   },
   {
-    "id": "132",
+    "id": "122",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Robert-Logožar_1X5A8439.jpg",
     "name": "Logožar Robert",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "robert.logozar@unin.hr",
     "phone": "042/493-319",
-    "web": "https://www.unin.hr/profili/profil/logozar-robert",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/logozar-robert"
   },
   {
-    "id": "133",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/natasa_loncaric.jpg",
-    "name": "Lončarić Nataša",
-    "title": "Predavač, prof.",
-    "email": "natasa.loncaric@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/loncaric-natasa",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "134",
+    "id": "123",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Joško-Lozić_1X5A7911.jpg",
     "name": "Lozić Joško",
     "title": "Izvanredni profesor, dr. sc.",
-    "email": "josko.lozic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/lozic-josko",
-    "room": null,
-    "room_route": null
+    "email": "jlozic@unin.hr",
+    "phone": "Nema telefon",
+    "web": "https://www.unin.hr/profili/profil/lozic-josko"
   },
   {
-    "id": "135",
+    "id": "124",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/drazenlucic.jpg",
     "name": "Lučić Dražen",
     "title": "Predavač, dr. sc.",
     "email": "dlucic@unin.hr",
     "phone": "0981677766 & 0912440204",
-    "web": "https://www.unin.hr/profili/profil/lucic-drazen",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/lucic-drazen"
   },
   {
-    "id": "136",
+    "id": "125",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Lucin.jpg",
     "name": "Lučin Pero",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "pero.lucin@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/lucin-pero",
-    "room": null,
-    "room_route": null
+    "phone": "0911375872",
+    "web": "https://www.unin.hr/profili/profil/lucin-pero"
   },
   {
-    "id": "137",
+    "id": "126",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Luić-foto.jpg",
     "name": "Luić Ljerka",
     "title": "Redoviti profesor, dr. sc.",
     "email": "ljerka.luic@unin.hr",
     "phone": "+385 98 318 345",
-    "web": "https://www.unin.hr/profili/profil/luic-ljerka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/luic-ljerka"
   },
   {
-    "id": "138",
+    "id": "127",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "image": "https://www.unin.hr/wp-content/uploads/Alen_Lustica_profili.jpg",
     "name": "Luštica Alen",
     "title": "Predavač, dipl. ing. el.",
     "email": "alustica@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/lustica-alen",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/lustica-alen"
   },
   {
-    "id": "139",
+    "id": "128",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Lovro-Lukavečki_1X5A7890.jpg",
     "name": "Lukavečki Lovro",
     "title": "Asistent, mag. politolog",
     "email": "lolukavecki@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/lukavecki-lovro",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/lukavecki-lovro"
   },
   {
-    "id": "140",
+    "id": "129",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Damir-Mađerić_1X5A3243.jpg",
     "name": "Mađerić Damir",
     "title": "Profesor stručnog studija, dr.sc.",
     "email": "damir.madjeric@unin.hr",
     "phone": "042/493-324",
-    "web": "https://www.unin.hr/profili/profil/maderic-damir",
-    "room": "226",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/maderic-damir"
   },
   {
-    "id": "141",
+    "id": "130",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/hana_mahmutefendic.jpg",
     "name": "Mahmutefendić Lučin Hana",
-    "title": "Redoviti profesor, dr. sc.",
+    "title": "Redovita profesorica u trajnom izboru, dr. sc.",
     "email": "hana.mahmutefendic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mahmutefendic-lucin-hana",
-    "room": null,
-    "room_route": null
+    "phone": "0915353568",
+    "web": "https://www.unin.hr/profili/profil/mahmutefendic-lucin-hana"
   },
   {
-    "id": "142",
+    "id": "131",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Malenica Marko",
-    "title": "Predavač, mag. educ. phys.",
+    "title": "Predavač, dr. sc.",
     "email": "mamalenica@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/malenica-marko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/malenica-marko"
   },
   {
-    "id": "143",
+    "id": "132",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tomislava-Majić_1X5A7937.jpg",
     "name": "Majić Tomislava",
     "title": "Viši predavač, mr. sc.",
-    "email": "tomislava.majic@unin.hr",
+    "email": "tmajic@unin.hr",
     "phone": "048/499-910",
-    "web": "https://www.unin.hr/profili/profil/majic-tomislava",
-    "room": "A210",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/majic-tomislava"
   },
   {
-    "id": "144",
+    "id": "133",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Zvonimir-Majić_1X5A7853.jpg",
     "name": "Majić Zvonimir",
-    "title": "Predavač, univ. spec. oec.",
-    "email": "zvonimir.majic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/majic-zvonimir",
-    "room": null,
-    "room_route": null
+    "title": "predavač, dipl. oec., univ. spec. oec.",
+    "email": "zmajic@unin.hr",
+    "phone": "-",
+    "web": "https://www.unin.hr/profili/profil/majic-zvonimir"
   },
   {
-    "id": "145",
+    "id": "134",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Sven-Maričić_1X5A8351.jpg",
-    "name": "Maričić Sven",
-    "title": null,
-    "email": "smaricic@unin.hr",
+    "image": "https://www.unin.hr/wp-content/uploads/Zeljka_Marcinko_trkulja_profili.jpg",
+    "name": "Marčinko Trkulja Željka",
+    "title": "Docent, dr.sc.",
+    "email": "zmtrkulja@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/maricic-sven",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/marcinko-trkulja-zeljka"
   },
   {
-    "id": "146",
+    "id": "135",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Biljana-Marković_1X5A7875.jpg",
     "name": "Marković Biljana",
     "title": "Docent, dr. sc.",
     "email": "bimarkovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/markovic-biljana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/markovic-biljana"
   },
   {
-    "id": "147",
+    "id": "136",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Danko-Markovinović_1X5A3036.jpg",
     "name": "Markovinović Danko",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "danko.markovinovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/markovinovic-danko",
-    "room": "220",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/markovinovic-danko"
   },
   {
-    "id": "148",
+    "id": "137",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/robert_marsanic.jpg",
     "name": "Maršanić Robert",
     "title": "Docent, dr. sc.",
     "email": "rmarsanic@unin.hr",
     "phone": "099 579 01 83",
-    "web": "https://www.unin.hr/profili/profil/marsanic-robert",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/marsanic-robert"
   },
   {
-    "id": "149",
+    "id": "138",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Martić Krešimir",
+    "title": "Doc. dr. sc., dr. sc.",
+    "email": "kmartic@unin.hr",
+    "phone": "01 290 2569",
+    "web": "https://www.unin.hr/profili/profil/martic-kresimir"
+  },
+  {
+    "id": "139",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivana-Martinčević_1X5A7830.jpg",
     "name": "Martinčević Ivana",
     "title": "Docent, dr.sc.",
     "email": "ivana.martincevic@unin.hr",
     "phone": "042/493-373",
-    "web": "https://www.unin.hr/profili/profil/martincevic-ivana",
-    "room": "123",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/martincevic-ivana"
   },
   {
-    "id": "150",
+    "id": "140",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Martinović Željka",
+    "title": "docent, dr.sc.",
+    "email": "zmartinovic@unin.hr",
+    "phone": "091 3771 045",
+    "web": "https://www.unin.hr/profili/profil/martinovic-zeljka"
+  },
+  {
+    "id": "141",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tajana-Marušić_1X5A8310.jpg",
     "name": "Marušić Tajana",
     "title": "Docent, dr.sc.",
     "email": "tmarusic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/marusic-tajana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/marusic-tajana"
   },
   {
-    "id": "151",
+    "id": "142",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Hrvoje-Matijević_1X5A3003.jpg",
     "name": "Matijević Hrvoje",
     "title": "docent, dr. sc.",
     "email": "hrvoje.matijevic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/matijevic-hrvoje",
-    "room": "220",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/matijevic-hrvoje"
   },
   {
-    "id": "152",
+    "id": "143",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Mile-Matijević_1X5A7867.jpg",
     "name": "Matijević Mile",
     "title": "Docent, dr. sc.",
     "email": "mile.matijevic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/matijevic-mile",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/matijevic-mile"
   },
   {
-    "id": "153",
+    "id": "144",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Dragan-Matković_1X5A8140.jpg",
-    "name": "Matković Dragan",
-    "title": "Viši predavač, mr. sc.",
-    "email": "dragan.matkovic@unin.hr",
-    "phone": "042/493-325",
-    "web": "https://www.unin.hr/profili/profil/matkovic-dragan",
-    "room": "UNIN1",
-    "room_route": null
+    "image": "https://www.unin.hr/wp-content/uploads/Barbara_Medvedec_profili.png",
+    "name": "Medvedec Barbara",
+    "title": "asistent, mag.ing.",
+    "email": "bmedvedec@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/medvedec-barbara"
   },
   {
-    "id": "154",
+    "id": "145",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tomislav-Meštrović_1X5A57852.jpg",
     "name": "Meštrović Tomislav",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "tomislav.mestrovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mestrovic-tomislav",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/mestrovic-tomislav"
   },
   {
-    "id": "155",
+    "id": "146",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Niko-Mihaljavić_1X5A7876.jpg",
     "name": "Mihaljević Niko",
     "title": "Docent, Magistar dizajna",
     "email": "niko.mihaljevic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mihaljevic-niko",
-    "room": "A202",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/mihaljevic-niko"
   },
   {
-    "id": "156",
+    "id": "147",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/damir_mihanovic.jpg",
     "name": "Mihanović Damir",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "damir.mihanovic@unin.hr",
     "phone": "048/499 911",
-    "web": "https://www.unin.hr/profili/profil/mihanovic-damir",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/mihanovic-damir"
   },
   {
-    "id": "157",
+    "id": "148",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Matija-Mikac_1X5A8305.jpg",
     "name": "Mikac Matija",
@@ -1884,19 +1506,17 @@
     "room_route": "/unin1"
   },
   {
-    "id": "158",
+    "id": "149",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Miroslav-Mikota.jpg",
     "name": "Mikota Miroslav",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "mmikota@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mikota-miroslav",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/mikota-miroslav"
   },
   {
-    "id": "159",
+    "id": "150",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Rektor-Marin-Milković.png",
     "name": "Milković Marin",
@@ -1908,7 +1528,7 @@
     "room_route": "/unin1"
   },
   {
-    "id": "160",
+    "id": "151",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Petar-Miljković_1X5A8387.jpg",
     "name": "Miljković Petar",
@@ -1920,535 +1540,439 @@
     "room_route": "/unin1"
   },
   {
-    "id": "161",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/marija_miscancuk.jpg",
-    "name": "Miščančuk Marija",
-    "title": "Viši predavač, prof.",
-    "email": "marija.miscancuk@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/miscancuk-marija",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "162",
+    "id": "152",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Petar-Mišević_1X5A8369.jpg",
     "name": "Mišević Petar",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "petar.misevic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/misevic-petar",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/misevic-petar"
   },
   {
-    "id": "163",
+    "id": "153",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Trina-Mjeda_1X5A7926.jpg",
-    "name": "Mjeda Trina",
+    "name": "Šarić Trina",
     "title": "Docent, dr. sc.",
     "email": "trina.mjeda@unin.hr",
     "phone": "048/499-918",
-    "web": "https://www.unin.hr/profili/profil/mjeda-trina",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/saric-trina"
   },
   {
-    "id": "164",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/damir-modric.jpg",
-    "name": "Modrić Damir",
-    "title": "Redoviti profesor, dr. sc.",
-    "email": "damir.modric@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/modric-damir",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "165",
+    "id": "154",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Marko-Morić_1X5A8164.jpg",
     "name": "Morić Marko",
     "title": "Docent, dr. sc.",
     "email": "marko.moric@unin.hr",
     "phone": "+385 91 250 73 13",
-    "web": "https://www.unin.hr/profili/profil/moric-marko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/moric-marko"
   },
   {
-    "id": "166",
+    "id": "155",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "image": "https://www.unin.hr/wp-content/uploads/Lorena_Mosnja_Skare_profili.jpg",
     "name": "Mošnja-Škare Lorena",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "lorena.mosnja-skare@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mosnja-skare-lorena",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/mosnja-skare-lorena"
   },
   {
-    "id": "167",
+    "id": "156",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Nikola-Mrvac.jpg",
     "name": "Mrvac Nikola",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
-    "email": "nikola.mrvac@unin.hr",
+    "email": "n.mrvac@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mrvac-nikola",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/mrvac-nikola"
   },
   {
-    "id": "168",
+    "id": "157",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ana-Mulović.jpg",
     "name": "Mulović Trgovac Ana",
-    "title": "Viši predavač, mr. sc.",
+    "title": "docentica, dr. sc.",
     "email": "ana.mulovic@unin.hr",
     "phone": "048/499-911",
-    "web": "https://www.unin.hr/profili/profil/mulovic-trgovac-ana",
-    "room": "A201",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/mulovic-trgovac-ana"
   },
   {
-    "id": "169",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/ivica_mustac.png",
-    "name": "Mustač Ivica",
-    "title": "Viši predavač, mr. sc.",
-    "email": "ivica.mustac@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mustac-ivica",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "170",
+    "id": "158",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/mustapic.jpg",
     "name": "Mustapić Miljenko",
-    "title": null,
+    "title": "doc.dr.sc., dr. sc.",
     "email": "mmustapic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mustapic-miljenko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/mustapic-miljenko"
   },
   {
-    "id": "171",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Mutavdžija Maja",
-    "title": "Asistent, mag.ing.traff.",
-    "email": "mamutavdzija@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/mutavdzija-maja",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "172",
+    "id": "159",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Josip-Nađ_1X5A8127.jpg",
     "name": "Nađ Josip",
     "title": "Predavač, dr. sc.",
     "email": "josip.nad@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/nad-josip",
-    "room": null,
-    "room_route": null
+    "phone": "0916100015",
+    "web": "https://www.unin.hr/profili/profil/nad-josip"
   },
   {
-    "id": "173",
+    "id": "160",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Magdalena-Najbar-Agičić_1X5A7856.jpg",
     "name": "Najbar-Agičić Magdalena",
     "title": "Redoviti profesor, dr. sc.",
     "email": "magdalena.najbar-agicic@unin.hr",
     "phone": "048/499-915",
-    "web": "https://www.unin.hr/profili/profil/najbar-agicic-magdalena",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/najbar-agicic-magdalena"
   },
   {
-    "id": "174",
+    "id": "161",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Nakić Domagoj",
-    "title": "Docent, dr. sc.",
-    "email": "dnakic@unin.hr",
+    "name": "Najdanović Zoran",
+    "title": null,
+    "email": "znajdanovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/nakic-domagoj",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/najdanovic-zoran"
   },
   {
-    "id": "175",
+    "id": "162",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/DN_foto2.jpg",
+    "name": "Nakić Domagoj",
+    "title": "Izvanredni profesor, dr. sc.",
+    "email": "dnakic@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/nakic-domagoj"
+  },
+  {
+    "id": "163",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Nesek Adam Višnja",
+    "title": "redoviti profesor, dr.sc",
+    "email": "vnadam@unin.hr",
+    "phone": "0951996743",
+    "web": "https://www.unin.hr/profili/profil/nesek-adam-visnja"
+  },
+  {
+    "id": "164",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivanka-Netinger-Grubeša_1X5A2573.jpg",
     "name": "Netinger Grubeša Ivanka",
     "title": "Redoviti profesor, Dr. sc.",
     "email": "inetinger@unin.hr",
     "phone": "-",
-    "web": "https://www.unin.hr/profili/profil/netinger-grubesa-ivanka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/netinger-grubesa-ivanka"
   },
   {
-    "id": "176",
+    "id": "165",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Marijana-Neuberg_1X5A8447.jpg",
     "name": "Neuberg Marijana",
-    "title": "Izvanredni profesor, dr.sc.",
+    "title": "izv.prof., dr.sc.",
     "email": "marijana.neuberg@unin.hr",
     "phone": "042/493-385",
-    "web": "https://www.unin.hr/profili/profil/neuberg-marijana",
-    "room": "125",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/neuberg-marijana"
   },
   {
-    "id": "177",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Njerš Marina",
-    "title": "Predavač, profesor matematike",
-    "email": "marina.njers@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/njers-marina",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "178",
+    "id": "166",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Valentina-Novak_1X5A70031.jpg",
     "name": "Novak Valentina",
-    "title": "Predavač, mag.ses.",
+    "title": "viši predavač, mag.ses.",
     "email": "valentina.novak@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/novak-valentina",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/novak-valentina"
   },
   {
-    "id": "179",
+    "id": "167",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Sonja-Obranić_1X5A69971.jpg",
     "name": "Obranić Sonja",
     "title": "Docent, dr. sc.",
     "email": "sobranic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/obranic-sonja",
-    "room": "122",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/obranic-sonja"
   },
   {
-    "id": "180",
+    "id": "168",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Pia-Orešković_1X5A8103.jpg",
     "name": "Orešković Pia",
     "title": "Predavač, mag. phil.",
     "email": "poreskovic@unin.hr",
     "phone": "+385(0)42-493-340",
-    "web": "https://www.unin.hr/profili/profil/oreskovic-pia",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/oreskovic-pia"
   },
   {
-    "id": "181",
+    "id": "169",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Matija-Orešković_1X5A2619.jpg",
     "name": "Orešković Matija",
     "title": "Izvanredni profesor, Dr. sc.",
     "email": "moreskovic@unin.hr",
     "phone": "042/493-351",
-    "web": "https://www.unin.hr/profili/profil/oreskovic-matija",
-    "room": "8",
-    "room_route": "/unin1"
+    "web": "https://www.unin.hr/profili/profil/oreskovic-matija"
   },
   {
-    "id": "182",
+    "id": "170",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Iva-Paska_1X5A3733.jpg",
     "name": "Paska Iva",
     "title": "Predavač, dr. sc.",
     "email": "ipaska@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/paska-iva",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/paska-iva"
   },
   {
-    "id": "183",
+    "id": "171",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/josip_pavan.jpg",
     "name": "Pavan Josip",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "josip.pavan@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/pavan-josip",
-    "room": "125",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/pavan-josip"
   },
   {
-    "id": "184",
+    "id": "172",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "image": "https://www.unin.hr/wp-content/uploads/Marko_Pavic_profili.jpg",
     "name": "Pavić Marko",
     "title": "Predavač, mr. sc.",
     "email": "mpavic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/pavic-marko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/pavic-marko"
   },
   {
-    "id": "185",
+    "id": "173",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/IMG_8033.jpg",
+    "name": "Pavković Ana",
+    "title": "Docent, dr. sc.",
+    "email": "apavkovic@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/pavkovic-ana"
+  },
+  {
+    "id": "174",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Livija-Pavletić_1X5A7880.jpg",
     "name": "Pavletić Livia",
     "title": "Predavač, prof.",
     "email": "livia.pavletic@unin.hr",
     "phone": "091 513 05 39",
-    "web": "https://www.unin.hr/profili/profil/pavletic-livia",
-    "room": "A211",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/pavletic-livia"
   },
   {
-    "id": "186",
+    "id": "175",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Đilda-Pečarić_fotografijia.jpg",
     "name": "Pečarić Đilda",
-    "title": "Docent, dr. sc.",
+    "title": "docent, dr. sc.",
     "email": "djilda.pecaric@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/pecaric-dilda",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/pecaric-dilda"
   },
   {
-    "id": "187",
+    "id": "176",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Perić Mato",
     "title": "Docent, dr. sc.",
     "email": "mperic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/peric-mato",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/peric-mato"
   },
   {
-    "id": "188",
+    "id": "177",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Mario-Periša_1X5A7796.jpg",
     "name": "Periša Mario",
-    "title": "Izvanredni profesor umjetnosti (izv.prof.art), dr. sc.",
+    "title": "izv. prof.art., dr.sc.",
     "email": "mario.perisa@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/perisa-mario",
-    "room": "27",
+    "room": "18",
     "room_route": "/unin1"
   },
   {
-    "id": "189",
+    "id": "178",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Dejan-Pernjak_1X5A7887.jpg",
     "name": "Pernjak Dejan",
     "title": "Predavač, dr. sc.",
     "email": "dpernjak@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/pernjak-dejan",
-    "room": "A206",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/pernjak-dejan"
   },
   {
-    "id": "190",
+    "id": "179",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Foto-izv.prof_.dr_.sc_.-Jasminka-Peršec.jpg",
     "name": "Peršec Jasminka",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "jpersec@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/persec-jasminka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/persec-jasminka"
   },
   {
-    "id": "191",
+    "id": "180",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/zoran_persec.jpg",
     "name": "Peršec Zoran",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "zoran.persec@unin.hr",
     "phone": "01/290-3518",
-    "web": "https://www.unin.hr/profili/profil/persec-zoran",
-    "room": "124",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/persec-zoran"
   },
   {
-    "id": "192",
+    "id": "181",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Saša-Petar_1X5A7771.jpg",
     "name": "Petar Saša",
     "title": "Docent, dr. sc.",
     "email": "sasa.petar@unin.hr",
     "phone": "091/2361516",
-    "web": "https://www.unin.hr/profili/profil/petar-sasa",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/petar-sasa"
   },
   {
-    "id": "193",
+    "id": "182",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Katarina-Pisačić_1X5A3260.jpg",
     "name": "Pisačić Katarina",
     "title": "Viši predavač, dipl. ing.",
     "email": "katarina.pisacic@unin.hr",
     "phone": "042/493-327",
-    "web": "https://www.unin.hr/profili/profil/pisacic-katarina",
-    "room": "Z3",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/pisacic-katarina"
   },
   {
-    "id": "194",
+    "id": "183",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Damir-Poljak_1X5A8330.jpg",
     "name": "Poljak Damir",
     "title": "docent, dr. sc.",
     "email": "damir.poljak@unin.hr",
     "phone": "+385 42 393 501",
-    "web": "https://www.unin.hr/profili/profil/poljak-damir",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/poljak-damir"
   },
   {
-    "id": "195",
+    "id": "184",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Jasna-Potočnjak_1X5A8355.jpg",
     "name": "Potočnjak Jasminka",
     "title": "Viši predavač, univ.mag.physioth.",
     "email": "jasminka.potocnjak@unin.hr",
     "phone": "042/49-33-77",
-    "web": "https://www.unin.hr/profili/profil/potocnjak-jasminka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/potocnjak-jasminka"
   },
   {
-    "id": "196",
+    "id": "185",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Dinko-Primorac_1X5A8317.jpg",
     "name": "Primorac Dinko",
     "title": "Redoviti profesor, dr. sc.",
-    "email": "dinko.primorac@unin.hr",
+    "email": "dprimorac@unin.hr",
     "phone": "042/493-342",
-    "web": "https://www.unin.hr/profili/profil/primorac-dinko",
-    "room": "123",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/primorac-dinko"
   },
   {
-    "id": "197",
+    "id": "186",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Predrag-Putnik_1X5A7860.jpg",
     "name": "Putnik Predrag",
     "title": "Docent, dr. sc.",
     "email": "predrag.putnik@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/putnik-predrag",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/putnik-predrag"
   },
   {
-    "id": "198",
+    "id": "187",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/puz-goran.jpg",
     "name": "Puž Goran",
     "title": "Docent, dr. sc.",
     "email": "goran.puz@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/puz-goran",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/puz-goran"
   },
   {
-    "id": "199",
+    "id": "188",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Irena-Radej-Miličić_1X5A7900.jpg",
     "name": "Radej Miličić Irena",
-    "title": "Docent, dr. sc.",
+    "title": "Docentica, dr. sc.",
     "email": "imilicic@unin.hr",
     "phone": "048/499-915",
-    "web": "https://www.unin.hr/profili/profil/radej-milicic-irena",
-    "room": "A205",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/radej-milicic-irena"
   },
   {
-    "id": "200",
+    "id": "189",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Radolović Debora",
     "title": "Docent, dr. sc.",
     "email": "dradolovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/radolovic-debora",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/radolovic-debora"
   },
   {
-    "id": "201",
+    "id": "190",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Radolović Sanja",
+    "title": null,
+    "email": "sradolovic@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/radolovic-sanja"
+  },
+  {
+    "id": "191",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tomislav-Radoš.jpg",
     "name": "Radoš Tomislav",
     "title": "Docent, dr.sc.",
     "email": "tomislav.rados@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/rados-tomislav",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/rados-tomislav"
   },
   {
-    "id": "202",
+    "id": "192",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Rosana-Ratkovčić_1X5A7863.jpg",
     "name": "Ratkovčić Rosana",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "rosana.ratkovcic@unin.hr",
     "phone": "+ 385 (0)91 521 45 33",
-    "web": "https://www.unin.hr/profili/profil/ratkovcic-rosana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/ratkovcic-rosana"
   },
   {
-    "id": "203",
+    "id": "193",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Rezo Milan",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "milan.rezo@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/rezo-milan",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/rezo-milan"
   },
   {
-    "id": "204",
+    "id": "194",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Rosana-Ribić_1X5A52761.jpg",
     "name": "Ribić Rosana",
     "title": "izvanredni profesor, dr.sc.",
     "email": "rosana.ribic@unin.hr",
     "phone": "042/493-306",
-    "web": "https://www.unin.hr/profili/profil/ribic-rosana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/ribic-rosana"
   },
   {
-    "id": "205",
+    "id": "195",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ante-Rončević_8848-1.jpg",
     "name": "Rončević Ante",
@@ -2460,115 +1984,97 @@
     "room_route": "/unin1"
   },
   {
-    "id": "206",
+    "id": "196",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Iva-Rosanda-Žigo_IMG_8788by-Mario.jpg",
     "name": "Rosanda Žigo Iva",
-    "title": "Izvanredni profesor, dr. sc.",
-    "email": "iva.rosanda.zigo@unin.hr",
+    "title": "Redoviti profesor, dr. sc.",
+    "email": "irosandazigo@unin.hr",
     "phone": "048/499-914",
-    "web": "https://www.unin.hr/profili/profil/rosanda-zigo-iva",
-    "room": "A204",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/rosanda-zigo-iva"
   },
   {
-    "id": "207",
+    "id": "197",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Rudan Diana",
     "title": "Docent, dr. sc.",
     "email": "diana.rudan@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/rudan-diana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/rudan-diana"
   },
   {
-    "id": "208",
+    "id": "198",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Melita-Sajko_1X5A27871.jpg",
     "name": "Sajko Melita",
     "title": "Docent, dr.sc.",
-    "email": "melita.sajko@unin.hr",
+    "email": "msajko@unin.hr",
     "phone": "042/493-383",
-    "web": "https://www.unin.hr/profili/profil/sajko-melita",
-    "room": "126",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/sajko-melita"
   },
   {
-    "id": "209",
+    "id": "199",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Vesna-Sesar_1X5A7809.jpg",
     "name": "Sesar Vesna",
     "title": "Docent, dr.sc.",
     "email": "vesna.sesar@unin.hr",
     "phone": "042/493-372",
-    "web": "https://www.unin.hr/profili/profil/sesar-vesna",
-    "room": "123",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/sesar-vesna"
   },
   {
-    "id": "210",
+    "id": "200",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "image": "https://www.unin.hr/wp-content/uploads/Robert_Slunjski_profili.jpg",
     "name": "Slunjski Robert",
     "title": "Predavač, dr. sc.",
-    "email": "robert.slunjski@unin.hr",
+    "email": "roslunjski@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/slunjski-robert",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/slunjski-robert"
   },
   {
-    "id": "211",
+    "id": "201",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Srđan-Skok_1X5A8313.jpg",
     "name": "Skok Srđan",
-    "title": "Izvanredni profesor, dr. sc.",
+    "title": "Redovitii profesor, dr. sc.",
     "email": "srdan.skok@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/skok-srdan",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/skok-srdan"
   },
   {
-    "id": "212",
+    "id": "202",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Bozo-Smoljan.jpg",
     "name": "Smoljan Božo",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "bozo.smoljan@unin.hr",
     "phone": "+385 91 252 60 42",
-    "web": "https://www.unin.hr/profili/profil/smoljan-bozo",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/smoljan-bozo"
   },
   {
-    "id": "213",
+    "id": "203",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Mirko-Smojić_1X5A7833.jpg",
     "name": "Smoljić Mirko",
     "title": "Docent, dr. sc.",
     "email": "mirko.smoljic@unin.hr",
     "phone": "048 499 908",
-    "web": "https://www.unin.hr/profili/profil/smoljic-mirko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/smoljic-mirko"
   },
   {
-    "id": "214",
+    "id": "204",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Božo-Soldo_1X5A2635.jpg",
     "name": "Soldo Božo",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "bozo.soldo@unin.hr",
     "phone": "042/493-347",
-    "web": "https://www.unin.hr/profili/profil/soldo-bozo",
-    "room": "129",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/soldo-bozo"
   },
   {
-    "id": "215",
+    "id": "205",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Dunja-Srpak_1X5A8110.jpg",
     "name": "Srpak Dunja",
@@ -2580,7 +2086,7 @@
     "room_route": "/unin1"
   },
   {
-    "id": "216",
+    "id": "206",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Josip-Srpak_1X5A8118.jpg",
     "name": "Srpak Josip",
@@ -2588,23 +2094,21 @@
     "email": "josip.srpak@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/srpak-josip",
-    "room": null,
-    "room_route": null
+    "room": "18",
+    "room_route": "/unin1"
   },
   {
-    "id": "217",
+    "id": "207",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Stanić Ivana",
-    "title": "Asistent, dr. sc.",
-    "email": "ivana.stanic@unin.hr",
+    "image": "https://www.unin.hr/wp-content/uploads/Ivana_Stancic_soldatek_profili.jpg",
+    "name": "Stančić Soldatek Ivana",
+    "title": "Asistent, mag. med. techn.",
+    "email": "istancicsoldatek@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/stanic-ivana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/stancic-soldatek-ivana"
   },
   {
-    "id": "218",
+    "id": "208",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Vladimir-Stanisavljević_1X5A8340.jpg",
     "name": "Stanisavljević Vladimir",
@@ -2616,163 +2120,137 @@
     "room_route": "/unin1"
   },
   {
-    "id": "219",
+    "id": "209",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Nikša-Cviličić_1X5A7896.jpg",
     "name": "Sviličić Nikša",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "niksa.svilicic@unin.hr",
     "phone": "+385 48 499 917",
-    "web": "https://www.unin.hr/profili/profil/svilicic-niksa",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/svilicic-niksa"
   },
   {
-    "id": "220",
+    "id": "210",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/sabic.jpg",
     "name": "Šabić Ivan",
-    "title": "Predavač, dr. sc.",
+    "title": "Lecturer, dr. sc.",
     "email": "ivsabic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/sabic-ivan",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/sabic-ivan"
   },
   {
-    "id": "221",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Vladimir-Šac_1X5A8285.jpg",
-    "name": "Šac Vladimir",
-    "title": "Predavač, mr. sc.",
-    "email": "vladimir.sac@unin.hr",
-    "phone": "+385 98 446 222",
-    "web": "https://www.unin.hr/profili/profil/sac-vladimir",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "222",
+    "id": "211",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Sanja-Šamanović_1X5A3019.jpg",
     "name": "Šamanović Sanja",
     "title": "docent, dr.sc.",
     "email": "sanja.samanovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/samanovic-sanja",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/samanovic-sanja"
   },
   {
-    "id": "223",
+    "id": "212",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Dunja-Šamec_1X5A8151.jpg",
     "name": "Šamec Dunja",
     "title": "Docent, dr.sc.",
     "email": "dunja.samec@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/samec-dunja",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/samec-dunja"
   },
   {
-    "id": "224",
+    "id": "213",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Bojan-Šarkanj_1X5A7789.jpg",
     "name": "Šarkanj Bojan",
-    "title": "Izvanredni profesor, dr. sc.",
+    "title": "redoviti profesor, prof. dr. sc.",
     "email": "bojan.sarkanj@unin.hr",
-    "phone": "048/499-905",
-    "web": "https://www.unin.hr/profili/profil/sarkanj-bojan",
-    "room": "A228",
-    "room_route": null
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/sarkanj-bojan"
   },
   {
-    "id": "225",
+    "id": "214",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "image": "https://www.unin.hr/wp-content/uploads/Irena_Skoric_profili.jpg",
     "name": "Škorić Irena",
-    "title": "Docent, dr. sc.",
+    "title": "Docent, dr. art.",
     "email": "iskoric@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/skoric-irena",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/skoric-irena"
   },
   {
-    "id": "226",
+    "id": "215",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Štimac Ljubas Vlatka",
     "title": "Docent, dr. sc.",
     "email": "vlatka.stimac.ljubas@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/stimac-ljubas-vlatka",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/stimac-ljubas-vlatka"
   },
   {
-    "id": "227",
+    "id": "216",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivana-Dodlek-Šarkanj_1X5A7821.jpg",
     "name": "Dodlek Šarkanj Ivana",
-    "title": "predavač, dr.sc.",
+    "title": "viši predavač, dr.sc.",
     "email": "idsarkanj@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/dodlek-sarkanj-ivana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/dodlek-sarkanj-ivana"
   },
   {
-    "id": "228",
+    "id": "217",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Mario_Siljeg.jpg",
     "name": "Šiljeg Mario",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "mario.siljeg@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/siljeg-mario",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/siljeg-mario"
   },
   {
-    "id": "229",
+    "id": "218",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Sanja-Šolić_1X5A3227.jpg",
     "name": "Šolić Sanja",
     "title": "Redoviti profesor, dr. sc.",
     "email": "sanja.solic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/solic-sanja",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/solic-sanja"
   },
   {
-    "id": "230",
+    "id": "219",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/zeljko_stromar.jpg",
-    "name": "Štromar Željko",
-    "title": "Viši predavač, mr. sc.",
-    "email": "zeljko.stromar@unin.hr",
+    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "name": "Šrajbek Marko",
+    "title": null,
+    "email": "msrajbek@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/stromar-zeljko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/srajbek-marko"
   },
   {
-    "id": "231",
+    "id": "220",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Miljenko_Stumerger_profili.jpg",
+    "name": "Štumerger Miljenko",
+    "title": "Asistent, univ.mag.ing.graf.",
+    "email": "mistumerger@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/stumerger-miljenko"
+  },
+  {
+    "id": "221",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/nikoleta_suljagic.jpg",
     "name": "Šuljagić Nikoleta",
     "title": "Predavač, dipl. ing.",
     "email": "nikoleta.suljagic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/suljagic-nikoleta",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/suljagic-nikoleta"
   },
   {
-    "id": "232",
+    "id": "222",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivan-Šumiga_1X5A8114.jpg",
     "name": "Šumiga Ivan",
@@ -2784,163 +2262,117 @@
     "room_route": "/unin1"
   },
   {
-    "id": "233",
+    "id": "223",
     "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
+    "image": "https://www.unin.hr/wp-content/uploads/SLika-profila_1.png",
     "name": "Švoger Siniša",
     "title": "Predavač, mag. ing.",
     "email": "sinisa.svoger@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/svoger-sinisa",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/svoger-sinisa"
   },
   {
-    "id": "234",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
-    "name": "Tatković Nevenka",
-    "title": "Redoviti profesor, dr. sc.",
-    "email": "nevenka.tatkovic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tatkovic-nevenka",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "235",
+    "id": "224",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Tepeš Golubić Lidija",
     "title": "Docent, dr. sc.",
     "email": "ltgolubic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tepes-golubic-lidija",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tepes-golubic-lidija"
   },
   {
-    "id": "236",
+    "id": "225",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Petra-Tišler_0946.jpg",
     "name": "Tišler Kovač Petra",
     "title": "Predavač, mag. oec.",
     "email": "tisler.medijsko@gmail.com",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tisler-kovac-petra",
-    "room": "A212",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tisler-kovac-petra"
   },
   {
-    "id": "237",
+    "id": "226",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Gordana-Tkalec_1X5A7918.jpg",
     "name": "Tkalec Gordana",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "gordana.tkalec@unin.hr",
     "phone": "048/499-914",
-    "web": "https://www.unin.hr/profili/profil/tkalec-gordana",
-    "room": "A204",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tkalec-gordana"
   },
   {
-    "id": "238",
+    "id": "227",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Antonia-Tomaš_1X5A7892.jpg",
     "name": "Tomaš Antonia",
-    "title": "Predavač, mag. rel. publ.",
-    "email": "antomas@unin.hr",
+    "title": "Predavač, dr. sc.",
+    "email": "antonia.tomas@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tomas-antonia",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tomas-antonia"
   },
   {
-    "id": "239",
+    "id": "228",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Maja-Katarina-Tomić_1X5A8133.jpg",
     "name": "Tomić Maja Katarina",
     "title": "Predavač, dr. sc.",
     "email": "mktomic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tomic-maja-katarina",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tomic-maja-katarina"
   },
   {
-    "id": "240",
+    "id": "229",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tanja-Tomić_1X5A3235.jpg",
     "name": "Tomić Tanja",
     "title": "Docent, dr.sc.",
     "email": "tanja.tomic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tomic-tanja",
-    "room": null,
-    "room_route": null
+    "phone": "+385 916203115",
+    "web": "https://www.unin.hr/profili/profil/tomic-tanja"
   },
   {
-    "id": "241",
+    "id": "230",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Tomić Zoran",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "ztomic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tomic-zoran",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tomic-zoran"
   },
   {
-    "id": "242",
+    "id": "231",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/branko-tomicic.jpg",
     "name": "Tomičić Branko",
-    "title": "Viši predavač, dr. sc.",
+    "title": "Profesor stručnog studija, dr. sc.",
     "email": "btomicic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tomicic-branko",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tomicic-branko"
   },
   {
-    "id": "243",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/Emilija-Tomičić_1X5A8342.jpg",
-    "name": "Tomičić Emilija",
-    "title": "Predavač, mag. educ. inf.",
-    "email": "etomicic@unin.hr",
-    "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tomicic-emilija",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "244",
+    "id": "232",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Mario-Tomiša-1.jpg",
     "name": "Tomiša Mario",
     "title": "redoviti profesor, dr. sc.",
     "email": "mario.tomisa@unin.hr",
     "phone": "048/499-901",
-    "web": "https://www.unin.hr/profili/profil/tomisa-mario",
-    "room": "A220",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tomisa-mario"
   },
   {
-    "id": "245",
+    "id": "233",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Turšić Vito",
     "title": "Viši predavač, dipl. iur.",
     "email": "vtursic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/tursic-vito",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/tursic-vito"
   },
   {
-    "id": "246",
+    "id": "234",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Vlado-Tropša_1X5A8380.jpg",
     "name": "Tropša Vlado",
@@ -2952,163 +2384,159 @@
     "room_route": "/unin1"
   },
   {
-    "id": "247",
+    "id": "235",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Natalija-Uršulin-Trstenjak_1X5A7805.jpg",
     "name": "Uršulin Trstenjak Natalija",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "natalija.ursulin-trstenjak@unin.hr",
     "phone": "042/493-388",
-    "web": "https://www.unin.hr/profili/profil/ursulin-trstenjak-natalija",
-    "room": "124",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/ursulin-trstenjak-natalija"
   },
   {
-    "id": "248",
+    "id": "236",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Dean-Vladec_1X5A79291.jpg",
     "name": "Valdec Dean",
     "title": "Redoviti profesor, dr. sc.",
     "email": "devaldec@unin.hr",
-    "phone": "VŽ: 042/493-357 / KC: 048/499-919",
-    "web": "https://www.unin.hr/profili/profil/valdec-dean",
-    "room": "25",
-    "room_route": "/unin1"
+    "phone": "KC: 048/499-919",
+    "web": "https://www.unin.hr/profili/profil/valdec-dean"
   },
   {
-    "id": "249",
+    "id": "237",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Matija-Varga_1X5A7883.jpg",
     "name": "Varga Matija",
     "title": "Izvanredni profesor, dr. sc.",
-    "email": "matija.varga@unin.hr",
+    "email": "mvarga@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/varga-matija",
-    "room": "A212",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/varga-matija"
   },
   {
-    "id": "250",
+    "id": "238",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Oliver_Vasilj_profili.jpg",
+    "name": "Vasilj Oliver",
+    "title": "izv.prof.dr.sc., dr.sc.",
+    "email": "ovasilj@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/vasilj-oliver"
+  },
+  {
+    "id": "239",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Tomislav-Veliki_1X5A3193.jpg",
     "name": "Veliki Tomislav",
     "title": "Docent, dr. sc.",
     "email": "tomislav.veliki@unin.hr",
     "phone": "042 493375",
-    "web": "https://www.unin.hr/profili/profil/veliki-tomislav",
-    "room": "UNIN3",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/veliki-tomislav"
   },
   {
-    "id": "251",
+    "id": "240",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Jurica-Veronek_1X5A8332.jpg",
     "name": "Veronek Jurica",
     "title": "Docent, dr.sc.",
     "email": "jurica.veronek@unin.hr",
     "phone": "042/493-331",
-    "web": "https://www.unin.hr/profili/profil/veronek-jurica",
-    "room": "126",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/veronek-jurica"
   },
   {
-    "id": "252",
+    "id": "241",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Valentina-Vincek_1X5A27771.jpg",
     "name": "Vincek Valentina",
     "title": "Predavač, mag. med. techn.",
     "email": "valentina.vincek@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/vincek-valentina",
-    "room": "122",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/vincek-valentina"
   },
   {
-    "id": "253",
+    "id": "242",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Jelena-Vlašić_1X5A8295.jpg",
     "name": "Vlašić Jelena",
-    "title": "Predavač, dipl. ing.",
+    "title": "Predavač, dr.sc.",
     "email": "jelena.vlasic@unin.hr",
     "phone": "042/493-371",
-    "web": "https://www.unin.hr/profili/profil/vlasic-jelena",
-    "room": "27",
-    "room_route": "/unin1"
+    "web": "https://www.unin.hr/profili/profil/vlasic-jelena"
   },
   {
-    "id": "254",
+    "id": "243",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Goran-Vojković_1X5A7837.jpg",
     "name": "Vojković Goran",
-    "title": "Izvanredni profesor, dr. sc.",
+    "title": "Redoviti profesor, dr. sc.",
     "email": "goran.vojkovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/vojkovic-goran",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/vojkovic-goran"
   },
   {
-    "id": "255",
+    "id": "244",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/vukovic.jpg",
     "name": "Vuković Dijana",
     "title": "Izvanredni profesor, dr. sc.",
     "email": "dijana.vukovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/vukovic-dijana",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/vukovic-dijana"
   },
   {
-    "id": "256",
+    "id": "245",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Damir-Vusic_profilna-slika.jpg",
     "name": "Vusić Damir",
     "title": "Redoviti profesor, dr. sc.",
     "email": "damir.vusic@unin.hr",
     "phone": "042/493-334",
-    "web": "https://www.unin.hr/profili/profil/vusic-damir",
-    "room": "208",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/vusic-damir"
   },
   {
-    "id": "257",
+    "id": "246",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Nikolina-Zaplatić-Degač_1X5A8169.jpg",
     "name": "Zaplatić Degač Nikolina",
     "title": "Predavač, VSS",
     "email": "nzaplatic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/zaplatic-degac-nikolina",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/zaplatic-degac-nikolina"
   },
   {
-    "id": "258",
+    "id": "247",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Bruno-Zelić_1X5A8366.jpg",
     "name": "Zelić Bruno",
     "title": "Redoviti profesor u trajnom zvanju, dr. sc.",
     "email": "bruno.zelic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/zelic-bruno",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/zelic-bruno"
   },
   {
-    "id": "259",
+    "id": "248",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Sanja-Zlatić_1X5A7864.jpg",
     "name": "Zlatić Sanja",
-    "title": "Viši predavač, dipl. ing.",
+    "title": "Viši predavač, dr.sc.",
     "email": "sanja.zlatic@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/zlatic-sanja",
-    "room": null,
-    "room_route": null
+    "room": "27",
+    "room_route": "/unin1"
   },
   {
-    "id": "260",
+    "id": "249",
+    "type": "TEACHER",
+    "image": "https://www.unin.hr/wp-content/uploads/Mateja_Znika_profili.jpg",
+    "name": "Znika Mateja",
+    "title": "Viši predavač, dr.sc.",
+    "email": "mznika@unin.hr",
+    "phone": null,
+    "web": "https://www.unin.hr/profili/profil/znika-mateja"
+  },
+  {
+    "id": "250",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Anja-Zorko_1X5A8108.jpg",
     "name": "Zorko Anja",
@@ -3116,67 +2544,47 @@
     "email": "anja.zorko@unin.hr",
     "phone": null,
     "web": "https://www.unin.hr/profili/profil/zorko-anja",
-    "room": null,
-    "room_route": null
+    "room": "34",
+    "room_route": "/unin1"
   },
   {
-    "id": "261",
+    "id": "251",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/profile_picture_placeholder.jpg",
     "name": "Žagar Drago",
     "title": "Redoviti profesor u tr. zv., dr. sc.",
     "email": "dzagar@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/zagar-drago",
-    "room": null,
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/zagar-drago"
   },
   {
-    "id": "262",
+    "id": "252",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivana-Ziljak-Stanimirovic-portret.jpg",
     "name": "Žiljak Stanimirović Ivana",
     "title": "Redoviti profesor, dr. sc.",
     "email": "ivana.ziljak.stanimirovic@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/ziljak-stanimirovic-ivana",
-    "room": "119",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/ziljak-stanimirovic-ivana"
   },
   {
-    "id": "263",
+    "id": "253",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Ivana-Živoder_1X5A8158.jpg",
     "name": "Živoder Ivana",
     "title": "Docent, dr. sc.",
     "email": "ivana.zivoder@unin.hr",
     "phone": "042/493-301",
-    "web": "https://www.unin.hr/profili/profil/zivoder-ivana",
-    "room": "124",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/zivoder-ivana"
   },
   {
-    "id": "264",
-    "type": "TEACHER",
-    "image": "https://www.unin.hr/wp-content/uploads/ksenija_zlof.jpg",
-    "name": "Žlof Ksenija",
-    "title": "Viši predavač, dr. sc.",
-    "email": "kszlof@gmail.com",
-    "phone": "098 214142",
-    "web": "https://www.unin.hr/profili/profil/zlof-ksenija",
-    "room": null,
-    "room_route": null
-  },
-  {
-    "id": "265",
+    "id": "254",
     "type": "TEACHER",
     "image": "https://www.unin.hr/wp-content/uploads/Zoran-Žeželj_1X5A30461.jpg",
     "name": "Žeželj Zoran",
     "title": "Predavač, VSS",
     "email": "zozezelj@unin.hr",
     "phone": null,
-    "web": "https://www.unin.hr/profili/profil/zezelj-zoran",
-    "room": "121",
-    "room_route": null
+    "web": "https://www.unin.hr/profili/profil/zezelj-zoran"
   }
 ]

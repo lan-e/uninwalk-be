@@ -1,31 +1,5 @@
 [
   {
-  "id": "univ_general",
-  "name": "Sveučilište Sjever",
-  "type": "INFORMACIJE",
-  "info": {
-    "radno_vrijeme": "pon-pet 8-16h",
-    "glavni_telefon": "+385 42 493 338",
-    "email": "tajnistvo.vz@unin.hr",
-    "web": "https://www.unin.hr",
-    "adresa": "Jurja Križanića 31b, 42000 Varaždin",
-    "studentska_sluzba_radno_vrijeme": "pon-pet 12-16h",
-    "knjiznica_radno_vrijeme": "pon, uto, sri, pet 9-17h, čet 9-20h"
-  }
-},
-  {
-    "id": "p1",
-    "type": "PARKING",
-    "building": "UNIN1-1",
-    "spots": "70"
-  },
-  {
-    "id": "p2",
-    "type": "PARKING",
-    "building": "UNIN2-1",
-    "spots": "60"
-  },
-  {
     "id": "k1",
     "name": "K-1",
     "type": "PREDAVAONICA",
@@ -342,5 +316,346 @@
     "name": "TOILETS",
     "type": "",
     "building": "UNIN2-2"
+  },
+  {
+    "id": "univ_general",
+    "name": "Sveučilište Sjever",
+    "type": "INFORMACIJE",
+    "info": {
+      "sjediste": "Trg dr. Žarka Dolinara 1, 48000 Koprivnica",
+      "oib": "59624928052",
+      "iban": "HR4923900011101386168",
+      "matični_broj": "02752298",
+      "matični_broj_subjekta": "060260692",
+      "vat_id": "HR59624928052",
+      "glavni_email": "info@unin.hr",
+      "glavni_telefon": "+385 42 493 338",
+      "web": "https://www.unin.hr",
+      "centri": [
+        {
+          "naziv": "Sveučilišni centar Koprivnica",
+          "adresa": "Trg dr. Žarka Dolinara 1, 48000 Koprivnica",
+          "email": "tajnistvo.kc@unin.hr"
+        },
+        {
+          "naziv": "Sveučilišni centar Varaždin",
+          "adresa": "Jurja Križanića 31b, 42000 Varaždin",
+          "email": "tajnistvo.vz@unin.hr"
+        }
+      ]
+    }
+  },
+  {
+    "id": "univ_history",
+    "name": "povijest i razvoj",
+    "type": "INFORMACIJE_POVIJEST",
+    "info": {
+      "kratka_povijest": "Sveučilište Sjever, osmo je javno sveučilište u Hrvatskoj koje paralelno djeluje i razvija se u dva grada – Koprivnici i Varaždinu, kao regionalno sveučilište na području sjeverozapadne Hrvatske.",
+      "timeline": {
+        "2001": "Osnivanje stručnog studija elektrotehnike - Visoka škola s pravom javnosti na Elektrostrojarskoj školi u Varaždinu",
+        "2002": "Studij prerasta u Visoku elektrotehničku školu",
+        "2005": "Osnivanje Veleučilišta u Varaždinu sa stručnim prijediplomskim programima (Elektrotehnika, Proizvodno strojarstvo, Multimedija)",
+        "2012": "Grad Koprivnica preuzima osnivačka prava nad Medijskim sveučilištem",
+        "2014": "Integracija Veleučilišta u Varaždinu i Medijskog sveučilišta u siječanju u Sveučilište Sjever",
+        "2015": "Sveučilište Sjever postaje osmo javno sveučilište u Republici Hrvatskoj"
+      },
+      "web_stranica": "https://www.unin.hr/o-sveucilistu/povijest-i-razvoj/"
+    }
+  },
+  {
+    "id": "univ_campuses",
+    "name": "Kampusi i Lokacije",
+    "type": "INFORMACIJE_LOKACIJA",
+    "info": {
+      "varazdin": {
+        "grad": "Varaždin",
+        "adresa": "Jurja Križanića 31b, 42000 Varaždin"
+      },
+      "koprivnica": {
+        "grad": "Koprivnica",
+        "adresa": "Trg dr. Žarka Dolinara 1, 48000 Koprivnica"
+      }
+    }
+  },
+  {
+    "id": "univ_sustainability",
+    "name": "Održivost i Ekologija",
+    "type": "INFORMACIJE_SUSTAV",
+    "info": {
+      "energetska_ucinkovitost": "Sve zgrade su temeljito energetski obnovljene. Sveučilište Sjever je jedina visokoškolska institucija koja je uspješno realizirala Program energetske obnove Vlade Republike Hrvatske.",
+      "zelene_povrsine": "Dostupne na kampusu, namijenjene slobodnom korištenju za studente, zaposlenike i javnost",
+      "bicikli": {
+        "parkiraliste": "Otkriveno i natkriveno parkiralište dostupno",
+        "gradski_bicikli": "Dostupni za najam"
+      },
+      "elektrifikacija": {
+        "punionice": "Punionice za električne automobile dostupne",
+        "sluzba_auto": "Službeni električni automobil dostupan zaposlenicima"
+      },
+      "dostupnost": {
+        "osobe_invaliditetom": "Pristupne rampe, lift, prilagođeni WC, prilagođene dvorane, oznake za slijepe i slabovidne, dopušteni psi vodiči",
+        "javnost": "Galerija, knjižnica, atelje dostupni uz prethodnu najavu"
+      }
+    }
+  },
+  {
+    "id": "univ_leadership",
+    "name": "Rektor i prorektori",
+    "type": "INFORMACIJE_VODSTVO",
+    "info": {
+      "rektor": {
+        "ime": "Prof. dr. sc. Damir Vusić",
+        "email": "rektor@unin.hr",
+        "funkcija": "Rektor"
+      },
+      "prorektori": [
+        {
+          "ime": "izv. prof. art. dr. sc. Robert Geček",
+          "email": "robert.gecek@unin.hr",
+          "funkcija": "Prorektor Sveučilišnog centra Varaždin"
+        },
+        {
+          "ime": "Prof. dr. sc. Mario Tomiša",
+          "email": "mario.tomisa@unin.hr",
+          "funkcija": "Prorektor Sveučilišnog centra Koprivnica"
+        },
+        {
+          "ime": "Izv. prof. dr. sc. Marijana Neuberg",
+          "email": "marijana.neuberg@unin.hr",
+          "funkcija": "Prorektorica za nastavu i studentska pitanja"
+        },
+        {
+          "ime": "Izv. prof. dr. sc. Danko Markovinović",
+          "email": "danko.markovinovic@unin.hr",
+          "funkcija": "Prorektor za financije i opće poslove"
+        },
+        {
+          "ime": "Prof. dr. sc. Marin Milković",
+          "email": "marin.milkovic@unin.hr",
+          "funkcija": "Prorektor za znanstveno-umjetnički rad i međunarodnu suradnju"
+        },
+        {
+          "ime": "Izv. prof. dr. sc. Petar Mišević",
+          "email": "petar.misevic@unin.hr",
+          "funkcija": "Prorektor za suradnju s gospodarstvom, EU projekte i međuinstitucijsku suradnju"
+        }
+      ]
+    }
+  },
+  {
+    "id": "sc_varazdin_services",
+    "name": "Sveučilišni centar Varaždin - Službe",
+    "type": "INFORMACIJE_VARAZDIN",
+    "info": {
+      "adresa": "Jurja Križanića 31b, 42000 Varaždin",
+      "studiji": {
+        "prijediplomski_strucni": [
+          "Elektrotehnika",
+          "Proizvodno strojarstvo",
+          "Graditeljstvo",
+          "Multimedija, oblikovanje i primjena",
+          "Logistika i mobilnost",
+          "Sestrinstvo",
+          "Mehatronika",
+          "Fizioterapija",
+          "Geodezija i geomatika",
+          "Glazba i mediji"
+        ],
+        "diplomski": [
+          "Odnosi s javnostima",
+          "Poslovna ekonomija",
+          "Multimedija",
+          "Strojarstvo",
+          "Graditeljstvo",
+          "Sestrinstvo - menadžment u sestrinstvu"
+        ]
+      },
+      "sluzbe": {
+        "tajnistvo": {
+          "naziv": "Služba za pravne i kadrovske poslove",
+          "adresa": "Jurja Križanića 31b, 42000 Varaždin",
+          "zgrada": "UNIN3",
+          "soba": "204",
+          "radno_vrijeme": "08:00 – 16:00",
+          "telefon": "042/493-338",
+          "faks": "042/493-336",
+          "email": "tajnistvo.vz@unin.hr"
+        },
+        "studentska_sluzba": {
+          "naziv": "Studentska služba za rad sa studentima",
+          "adresa": "104. brigade 1, 42000 Varaždin",
+          "zgrada": "UNIN2",
+          "soba": "104",
+          "radno_vrijeme": "12:00 – 16:00 (pon-pet)",
+          "telefon": "042/493-364",
+          "email": "referada.vz@unin.hr"
+        },
+        "financijska_sluzba": {
+          "naziv": "Služba za financijske i računovodstvene poslove",
+          "adresa": "Jurja Križanića 31b, 42000 Varaždin",
+          "zgrada": "UNIN3",
+          "soba": "202",
+          "radno_vrijeme": "08:00 – 16:00",
+          "telefoni": ["042/493-332", "042/493-389"],
+          "email": "racunovodstvo@unin.hr",
+          "iban": "HR4923900011101386168"
+        },
+        "it_podrska": {
+          "naziv": "Odjel za IT potporu, e-učenje i učenje na daljinu",
+          "adresa": "104. brigade 3, 42000 Varaždin",
+          "zgrada": "UNIN1",
+          "soba": "6",
+          "radno_vrijeme": "08:00 – 16:00",
+          "telefon": "042/493-367",
+          "email": "podrska@unin.hr"
+        },
+        "knjiznica": {
+          "naziv": "Sveučilišna knjižnica",
+          "adresa": "104. brigade 1, 42000 Varaždin",
+          "zgrada": "UNIN2",
+          "soba": "112",
+          "radno_vrijeme": "09:00 – 17:00, čet 12:00 - 20:00",
+          "telefon": "042/493-316",
+          "email": "knjiznica.vz@unin.hr"
+        },
+        "eu_fondovi": {
+          "naziv": "Odjel za EU fondove, projekte i transfer tehnologija",
+          "adresa": "Jurja Križanića 31b, 42000 Varaždin",
+          "zgrada": "UNIN3",
+          "soba": "222",
+          "radno_vrijeme": "08:00 – 16:00",
+          "telefoni": ["042/493-347", "042/493-346"],
+          "emaili": ["mmak@unin.hr", "nhojsak@unin.hr", "kvisevic@unin.hr"]
+        },
+        "znanost": {
+          "naziv": "Odjel za znanstveni, umjetnički rad i međunarodnu suradnju",
+          "adresa": "104. brigade 3, 42 000 Varaždin",
+          "zgrada": "UNIN1",
+          "soba": "37",
+          "radno_vrijeme": "08:00 – 16:00",
+          "telefoni": ["042/493-392", "042/493-380"],
+          "emaili": ["znanost@unin.hr", "mobilnost@unin.hr"]
+        }
+      }
+    }
+  },
+  {
+    "id": "sc_koprivnica_services",
+    "name": "Sveučilišni centar Koprivnica - Službe",
+    "type": "INFORMACIJE_KOPRIVNICA",
+    "info": {
+      "adresa": "Trg dr. Žarka Dolinara 1, 48000 Koprivnica",
+      "sluzbe": {
+        "tajnistvo": {
+          "naziv": "Tajništvo Sveučilišta",
+          "osoba": "Ivana Bagarić Peroš, dipl.iur.",
+          "soba": "219",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "telefon": "048/499-923",
+          "email": "tajnistvo.kc@unin.hr"
+        },
+        "kadrovski_poslovi": {
+          "naziv": "Odsjek kadrovskih i stručno-administrativnih poslova",
+          "soba": "226",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "telefon": "048/499-900",
+          "email": "vsuradnja@unin.hr"
+        },
+        "referade": {
+          "naziv": "Odjel referade",
+          "soba": "111",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "telefon": "048/499-909",
+          "email": "referada.kc1@unin.hr",
+          "osoblje": [
+            {
+              "ime": "Petra Kokot, univ. mag. comm.",
+              "funkcija": "Rukovoditelj Odsjeka za prijediplomske i diplomske studije",
+              "email": "petra.kokot@unin.hr"
+            },
+            {
+              "ime": "Vanja Đorđević",
+              "funkcija": "Stručni referent",
+              "email": "vanja.dordevic@unin.hr"
+            }
+          ]
+        },
+        "podrska_studentima": {
+          "naziv": "Odjel za potporu studentima, razvoj karijera, cjeloživotno obrazovanje i alumni",
+          "rukovoditeljica": "Tanja Jakšić, mag. oec.",
+          "soba": "213",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "telefon": "048/499-925",
+          "email": "tanja.jaksic@unin.hr"
+        },
+        "podrska_invalidima": {
+          "naziv": "Podrška studentima s invaliditetom",
+          "osoba": "Jelena Ivelić Telišman, dipl. učitelj duhovnosti",
+          "soba": "213",
+          "email": "jelena.ivelic@unin.hr",
+          "napomena": "Termin za konzultacije potrebno dogovoriti putem e-maila"
+        },
+        "knjiznica": {
+          "naziv": "Odjel sveučilišne knjižnice",
+          "voditeljica": "dr.sc. Antonija Mandić",
+          "soba": "105",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "telefon": "048/499-917",
+          "email": "knjiznica@unin.hr"
+        },
+        "it_podrska": {
+          "naziv": "Odjel za IT potporu, e-učenje i učenje na daljinu",
+          "voditelj": "Nikola Marijanović, univ.mag.ing.techn.graph.",
+          "soba": "05",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "telefon": "048/499-920",
+          "email": "podrska@unin.hr"
+        },
+        "imovinsko_pravni": {
+          "naziv": "Odjel za imovinsko-pravne poslove, poslove održavanja, sigurnosti i poslovi zaštite na radu i zaštite od požara",
+          "osoba": "Jadranka Mataković, tehnički suradnik",
+          "soba": "214",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "telefon": "048/499-929",
+          "email": "jadranka.matakovic@unin.hr"
+        },
+        "revizija": {
+          "naziv": "Samostalni odjel za unutarnju reviziju",
+          "osoba": "Natalija Zalar, univ.spec.oec.",
+          "soba": "226",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "email": "nzalar@unin.hr"
+        },
+        "javnost": {
+          "naziv": "Odjel za informiranje i odnose s javnošću",
+          "voditeljica": "Nina Šešić Mežnarić, mag.antrop.i mag.educ.art.orator.",
+          "soba": "227",
+          "radno_vrijeme": "08:00 – 16:00 (pon-pet)",
+          "mobitel": "095/202 0705",
+          "email": "nsmeznaric@unin.hr"
+        }
+      },
+      "povjerenik": {
+        "naziv": "Osoba za zaštitu dostojanstva radnika i studenata",
+        "ime": "Ivana Bagarić Peroš, dipl.iur.",
+        "adresa": "Trg dr. Žarka Dolinara 1, 48 000 Koprivnica",
+        "email": "ibagaric@unin.hr",
+        "opis": "Povjerenik je imenovan od strane rektora Sveučilišta te ovlašten za primanje i rješavanje pritužbi zaposlenika i studenata"
+      }
+    }
+  },
+  {
+    "id": "parking_varazdin",
+    "type": "PARKING",
+    "building": "UNIN1-1",
+    "spots": "70",
+    "info": "Parking 1 ispred UNIN1-1"
+  },
+  {
+    "id": "parking_varazdin_2",
+    "type": "PARKING",
+    "building": "UNIN2-1",
+    "spots": "60",
+    "info": "Parking 2 ispred UNIN2-1"
   }
 ]

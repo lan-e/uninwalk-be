@@ -6,7 +6,7 @@ from src.api import router
 from src.services.chatbot_service import ChatbotService
 
 
-app = FastAPI(root_path="/api")
+app = FastAPI(root_path="/uninwalk-api")
 
 origins = [
     "*"

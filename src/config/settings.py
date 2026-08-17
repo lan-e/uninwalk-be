@@ -9,7 +9,7 @@ class Settings(BaseSettings):
 
     groq_api_key: str
     huggingface_api_key: str
-    llm_name: str = "llama-3.3-70b-versatile"
+    llm_name: str = "qwen/qwen3.6-27b"
     temperature: float = 0.0
 
     class Config:

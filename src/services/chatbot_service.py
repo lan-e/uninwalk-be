@@ -67,7 +67,8 @@ class ChatbotService:
             model = ChatGroq(
                 api_key=self.settings.groq_api_key,
                 model_name=self.settings.llm_name,
-                temperature=self.settings.temperature
+                temperature=self.settings.temperature,
+                model_kwargs={"reasoning_effort": "none"}
             )
             self._llm = model
 

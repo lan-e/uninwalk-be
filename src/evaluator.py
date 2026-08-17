@@ -6,7 +6,7 @@ from typing import List, Dict, Any
 class LLMAsJudgeEvaluator:
     """Custom RAG evaluator using LLM-as-a-judge, matching frontend implementation"""
     
-    def __init__(self, api_key: str, model: str = "llama-3.3-70b-versatile"):
+    def __init__(self, api_key: str, model: str = "qwen/qwen3.6-27b"):
         self.client = OpenAI(
             api_key=api_key,
             base_url="https://api.groq.com/openai/v1"
@@ -38,10 +38,11 @@ Odgovori u JSON formatu:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],
-                temperature=0
+                temperature=0,
+                extra_body={"reasoning_effort": "none"}
             )
             content = response.choices[0].message.content
-            
+
             # Extract JSON from response
             json_match = content[content.find('{'):content.rfind('}')+1]
             result = json.loads(json_match)
@@ -84,17 +85,18 @@ Odgovori u JSON formatu:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],
-                temperature=0
+                temperature=0,
+                extra_body={"reasoning_effort": "none"}
             )
             content = response.choices[0].message.content
-            
+
             json_match = content[content.find('{'):content.rfind('}')+1]
             result = json.loads(json_match)
-            
+
             if result["score"] > 1:
                 result["score"] = (result["score"] - 1) / 4
             result["score"] = max(0.0, min(1.0, result["score"]))
-            
+
             return result
         except Exception as e:
             return {
@@ -107,7 +109,7 @@ Odgovori u JSON formatu:
     async def evaluate_context_precision(self, question: str, retrieved_docs: List[str]) -> Dict[str, Any]:
         """Context Precision: How precise is the retrieved context for the question"""
         context = "\n---\n".join(retrieved_docs)
-        
+
         prompt = f"""Evaluiraj koliko je dohvaćeni kontekst precizan za odgovaranje na pitanje. Ocijeni od 0 do 1 gdje:
 0.0 = Nema relevantnih informacija
 0.25 = Malo relevantnih informacija
@@ -131,10 +133,11 @@ Odgovori u JSON formatu:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],
-                temperature=0
+                temperature=0,
+                extra_body={"reasoning_effort": "none"}
             )
             content = response.choices[0].message.content
-            
+
             json_match = content[content.find('{'):content.rfind('}')+1]
             result = json.loads(json_match)
             
